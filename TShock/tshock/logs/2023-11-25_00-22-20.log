@@ -1,0 +1,663 @@
+2023-11-25 00:22:20 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-11-25 00:22:20 - TShock: INFO: AutoSave Enabled
+2023-11-25 00:22:20 - TShock: INFO: Backups Enabled
+2023-11-25 00:22:20 - TShock: INFO: Welcome to TShock for Terraria!
+2023-11-25 00:22:20 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-11-25 00:22:20 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-11-25 00:22:55 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-11-25 00:22:55 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-11-25 00:22:55 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-11-25 00:22:55 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-11-25 00:22:55 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-11-25 00:22:55 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-11-25 00:22:55 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-11-25 01:10:51 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 01:10:55 - Utils: INFO: Broadcast: World saved.
+2023-11-25 01:10:55 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T18.10.51Z.bak)
+2023-11-25 01:10:55 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T18.10.51Z.bak).
+2023-11-25 04:53:08 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-11-25 04:53:08 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 04:58:13 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-11-25 04:58:13 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 05:03:18 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-11-25 05:03:18 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 06:45:58 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 06:46:01 - Utils: INFO: Broadcast: World saved.
+2023-11-25 06:46:01 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T23.45.58Z.bak)
+2023-11-25 06:46:01 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T23.45.58Z.bak).
+2023-11-25 06:46:01 - TShock: INFO: Yasa (104.28.215.130) from 'guest' group joined. (1/8)
+2023-11-25 06:46:01 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-25 06:46:29 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-11-25 06:46:29 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-25 06:47:04 - Utils: INFO: Broadcast: Yasa has left.
+2023-11-25 06:47:04 - TShock: INFO: Yasa disconnected.
+2023-11-25 06:47:05 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 06:47:06 - Utils: INFO: Broadcast: World saved.
+2023-11-25 06:47:06 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 08:06:33 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:06:34 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 08:06:36 - TShock: INFO: Yasa (182.1.69.197) from 'default' group joined. (1/8)
+2023-11-25 08:06:36 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-25 08:06:36 - Utils: INFO: Broadcast: World saved.
+2023-11-25 08:06:36 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T01.06.33Z.bak)
+2023-11-25 08:06:36 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T01.06.33Z.bak).
+2023-11-25 08:08:29 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-11-25 08:08:29 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 08:12:14 - Utils: INFO: Broadcast: Yasa has left.
+2023-11-25 08:12:14 - TShock: INFO: Yasa disconnected.
+2023-11-25 08:12:14 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:12:16 - Utils: INFO: Broadcast: World saved.
+2023-11-25 08:12:16 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 08:20:26 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:20:27 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 08:20:27 - TShock: INFO: nop (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 08:20:27 - Utils: INFO: Broadcast: nop has joined.
+2023-11-25 08:20:30 - Utils: INFO: Broadcast: World saved.
+2023-11-25 08:20:30 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T01.20.26Z.bak)
+2023-11-25 08:20:30 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T01.20.26Z.bak).
+2023-11-25 08:21:12 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 08:21:14 - TShock: INFO: Yasa (182.1.69.197) from 'default' group joined. (2/8)
+2023-11-25 08:21:14 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-25 08:21:23 - TShock: INFO: Broadcast: nop: hi
+2023-11-25 08:23:27 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:28:32 - TShock: INFO: Broadcast: Yasa has left.
+2023-11-25 08:28:32 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 08:29:23 - TShock: INFO: Broadcast: nop has left.
+2023-11-25 08:29:23 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 08:29:23 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:29:26 - SaveManager: INFO: Broadcast: World saved.
+2023-11-25 08:29:26 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 08:30:47 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:30:48 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 08:30:49 - HandlerCollection`1: INFO: Yasa (182.1.69.197) from 'default' group joined. (1/8)
+2023-11-25 08:30:49 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-25 08:30:50 - SaveManager: INFO: Broadcast: World saved.
+2023-11-25 08:30:50 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T01.30.47Z.bak)
+2023-11-25 08:30:50 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T01.30.47Z.bak).
+2023-11-25 08:33:55 - TShock: INFO: Broadcast: Yasa has left.
+2023-11-25 08:33:55 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 08:33:55 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 08:33:57 - SaveManager: INFO: Broadcast: World saved.
+2023-11-25 08:33:57 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 09:21:49 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 09:21:50 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'guest' group joined. (1/8)
+2023-11-25 09:21:50 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-25 09:21:52 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 09:21:52 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T02.21.49Z.bak)
+2023-11-25 09:21:52 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T02.21.49Z.bak).
+2023-11-25 09:22:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:24:10 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-25 09:24:10 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-25 09:31:49 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:31:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 09:31:51 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T02.31.49Z.bak)
+2023-11-25 09:31:51 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T02.31.49Z.bak).
+2023-11-25 09:32:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:41:49 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:41:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 09:41:51 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T02.41.49Z.bak)
+2023-11-25 09:41:51 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T02.41.49Z.bak).
+2023-11-25 09:42:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:51:49 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 09:51:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 09:51:51 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T02.51.49Z.bak)
+2023-11-25 09:51:51 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T02.51.49Z.bak).
+2023-11-25 09:52:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:01:49 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:01:52 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 10:01:52 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T03.01.49Z.bak)
+2023-11-25 10:01:52 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T03.01.49Z.bak).
+2023-11-25 10:02:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:11:49 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:11:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 10:11:51 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T03.11.49Z.bak)
+2023-11-25 10:11:51 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T03.11.49Z.bak).
+2023-11-25 10:12:41 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:18:42 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 10:18:42 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 10:18:42 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:18:44 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 10:18:44 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 10:49:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:49:55 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 10:49:56 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 10:49:56 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 10:49:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 10:49:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T03.49.55Z.bak)
+2023-11-25 10:49:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T03.49.55Z.bak).
+2023-11-25 10:53:54 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:53:55 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-25 10:53:56 - HandlerCollection`1: INFO: Hori (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-25 10:53:56 - TShock: INFO: Broadcast: Hori has joined.
+2023-11-25 10:55:20 - HandlerCollection`1: INFO: kadal_empang (182.1.105.119) from 'guest' group joined. (3/8)
+2023-11-25 10:55:20 - TShock: INFO: Broadcast: kadal_empang has joined.
+2023-11-25 10:56:13 - HandlerCollection`1: INFO: Broadcast: kadal_empang has left.
+2023-11-25 10:56:13 - HandlerCollection`1: INFO: kadal_empang disconnected.
+2023-11-25 10:56:58 - HandlerCollection`1: INFO: Flexy (182.1.105.119) from 'guest' group joined. (3/8)
+2023-11-25 10:56:58 - TShock: INFO: Broadcast: Flexy has joined.
+2023-11-25 10:57:38 - Commands: INFO: Flexy executed (args omitted): /register.
+2023-11-25 10:57:38 - Commands: INFO: Flexy registered an account: "Flexy".
+2023-11-25 10:58:02 - HandlerCollection`1: INFO: Flexy disconnected.
+2023-11-25 10:58:02 - TSPlayer: INFO: Kicked Flexy for : 'You logged in from the same IP.'
+2023-11-25 10:58:02 - GetDataHandlers: INFO: Flexy authenticated successfully as user Flexy.
+2023-11-25 10:58:04 - HandlerCollection`1: INFO: Flexy (182.1.105.119) from 'default' group joined. (3/8)
+2023-11-25 10:58:04 - TShock: INFO: Broadcast: Flexy has joined.
+2023-11-25 10:59:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 10:59:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 10:59:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T03.59.55Z.bak)
+2023-11-25 10:59:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T03.59.55Z.bak).
+2023-11-25 11:03:54 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 11:09:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 11:09:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:09:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.09.55Z.bak)
+2023-11-25 11:09:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.09.55Z.bak).
+2023-11-25 11:13:08 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 11:13:09 - HandlerCollection`1: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (4/8)
+2023-11-25 11:13:09 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 11:13:54 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 11:15:53 - HandlerCollection`1: INFO: Broadcast: Flexy has left.
+2023-11-25 11:15:53 - HandlerCollection`1: INFO: Flexy disconnected.
+2023-11-25 11:19:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 11:19:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:19:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.19.55Z.bak)
+2023-11-25 11:19:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.19.55Z.bak).
+2023-11-25 11:23:54 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:28:25 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 11:28:25 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 11:29:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:29:57 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:29:57 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.29.55Z.bak)
+2023-11-25 11:29:57 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.29.55Z.bak).
+2023-11-25 11:33:54 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:39:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:39:57 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:39:57 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.39.55Z.bak)
+2023-11-25 11:39:57 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.39.55Z.bak).
+2023-11-25 11:42:06 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-25 11:42:06 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-25 11:43:54 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:49:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:49:57 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:49:57 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.49.55Z.bak)
+2023-11-25 11:49:57 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.49.55Z.bak).
+2023-11-25 11:53:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:58:44 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 11:58:44 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 11:58:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:58:45 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:58:45 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 11:59:17 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 11:59:19 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 11:59:19 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 11:59:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 11:59:57 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 11:59:57 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T04.59.55Z.bak)
+2023-11-25 11:59:57 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T04.59.55Z.bak).
+2023-11-25 12:04:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:07:53 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 12:07:54 - HandlerCollection`1: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-25 12:07:54 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 12:08:16 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 12:08:16 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 12:08:31 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 12:08:32 - HandlerCollection`1: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-25 12:08:32 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 12:09:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:09:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 12:09:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T05.09.55Z.bak)
+2023-11-25 12:09:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T05.09.55Z.bak).
+2023-11-25 12:14:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:16:03 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 12:16:04 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-25 12:16:04 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 12:17:12 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 12:17:12 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 12:19:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:19:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 12:19:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T05.19.55Z.bak)
+2023-11-25 12:19:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T05.19.55Z.bak).
+2023-11-25 12:24:27 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 12:24:28 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-25 12:24:28 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 12:24:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:27:08 - HandlerCollection`1: INFO: Broadcast: Yasa: woy
+2023-11-25 12:27:24 - HandlerCollection`1: INFO: Broadcast: Yasa: siap siap nop
+2023-11-25 12:27:29 - HandlerCollection`1: INFO: Broadcast: nop: aku afk
+2023-11-25 12:27:32 - HandlerCollection`1: INFO: Broadcast: Yasa: wtf
+2023-11-25 12:27:36 - HandlerCollection`1: INFO: Broadcast: nop: sambil ngetik
+2023-11-25 12:28:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 12:28:08 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 12:29:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:29:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 12:29:58 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T05.29.55Z.bak)
+2023-11-25 12:29:58 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T05.29.55Z.bak).
+2023-11-25 12:29:58 - HandlerCollection`1: INFO: Broadcast: Yasa: makan dulu
+2023-11-25 12:30:00 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 12:30:00 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 12:34:22 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 12:34:22 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 12:34:22 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 12:34:23 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 12:34:23 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 13:01:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 13:01:57 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-25 13:01:57 - HandlerCollection`1: INFO: Hori (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 13:01:57 - TShock: INFO: Broadcast: Hori has joined.
+2023-11-25 13:02:00 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 13:02:00 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T06.01.56Z.bak)
+2023-11-25 13:02:00 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T06.01.56Z.bak).
+2023-11-25 13:02:03 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 13:02:27 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-25 13:02:27 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-25 13:02:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 13:02:29 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 13:02:29 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 13:29:12 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 13:29:12 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 13:29:14 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 13:29:14 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 13:29:16 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 13:29:16 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T06.29.12Z.bak)
+2023-11-25 13:29:16 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T06.29.12Z.bak).
+2023-11-25 13:29:21 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 13:29:21 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 13:29:21 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 13:29:22 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 13:29:22 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 14:00:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 14:00:58 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 14:00:59 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-25 14:00:59 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 14:01:02 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 14:01:02 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T07.00.58Z.bak)
+2023-11-25 14:01:02 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T07.00.58Z.bak).
+2023-11-25 14:01:11 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-25 14:01:11 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-25 14:01:11 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 14:01:12 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 14:01:14 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 14:01:15 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 14:01:18 - HandlerCollection`1: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-25 14:01:18 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 14:01:22 - HandlerCollection`1: INFO: Broadcast: Yasa: kerja nop
+2023-11-25 14:01:24 - HandlerCollection`1: INFO: Broadcast: nop: sudah lawan eye?
+2023-11-25 14:01:26 - HandlerCollection`1: INFO: Broadcast: Yasa: main terus
+2023-11-25 14:01:29 - HandlerCollection`1: INFO: Broadcast: Yasa: kalah
+2023-11-25 14:01:32 - HandlerCollection`1: INFO: Broadcast: Yasa: belum
+2023-11-25 14:01:33 - HandlerCollection`1: INFO: Broadcast: nop: sip
+2023-11-25 14:01:52 - HandlerCollection`1: INFO: Broadcast: Yasa: kerja nop, main terus
+2023-11-25 14:01:54 - HandlerCollection`1: INFO: Broadcast: nop: gk pake H
+2023-11-25 14:02:40 - HandlerCollection`1: INFO: Broadcast: Yasa: aku udah ready si nop
+2023-11-25 14:02:50 - HandlerCollection`1: INFO: Broadcast: nop: aku belum sama sekali
+2023-11-25 14:02:53 - HandlerCollection`1: INFO: Broadcast: nop: entar aja
+2023-11-25 14:02:55 - HandlerCollection`1: INFO: Broadcast: nop: sore
+2023-11-25 14:03:16 - HandlerCollection`1: INFO: Broadcast: nop: aku mau bikin laporan dulu
+2023-11-25 14:03:20 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 14:03:20 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 14:05:24 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 14:05:24 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 14:10:25 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 14:10:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 14:11:01 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 14:11:01 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T07.10.58Z.bak)
+2023-11-25 14:11:01 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T07.10.58Z.bak).
+2023-11-25 14:13:12 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 14:13:12 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 14:13:12 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 14:13:14 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 14:13:14 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 16:43:51 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-11-25 16:43:51 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 16:54:15 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 16:54:17 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'guest' group joined. (1/8)
+2023-11-25 16:54:17 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 16:54:18 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 16:54:18 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T09.54.15Z.bak)
+2023-11-25 16:54:18 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T09.54.15Z.bak).
+2023-11-25 16:54:31 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-25 16:54:31 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-25 16:59:05 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 16:59:05 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 16:59:05 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 16:59:07 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 16:59:07 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 19:34:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 19:34:39 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 19:34:40 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (1/8)
+2023-11-25 19:34:40 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 19:34:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 19:34:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T12.34.39Z.bak)
+2023-11-25 19:34:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T12.34.39Z.bak).
+2023-11-25 19:36:53 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 19:44:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 19:44:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 19:44:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T12.44.39Z.bak)
+2023-11-25 19:44:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T12.44.39Z.bak).
+2023-11-25 19:46:53 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 19:54:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 19:54:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 19:54:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T12.54.39Z.bak)
+2023-11-25 19:54:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T12.54.39Z.bak).
+2023-11-25 19:56:53 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:04:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:04:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:04:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.04.39Z.bak)
+2023-11-25 20:04:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.04.39Z.bak).
+2023-11-25 20:06:53 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:11:50 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:11:50 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:11:50 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:11:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:11:51 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 20:11:53 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 20:11:53 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (1/8)
+2023-11-25 20:11:53 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 20:14:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:14:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:14:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.14.39Z.bak)
+2023-11-25 20:14:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.14.39Z.bak).
+2023-11-25 20:16:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:17:33 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:17:33 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:17:33 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:17:35 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:17:35 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 20:17:45 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 20:17:46 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (1/8)
+2023-11-25 20:17:46 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 20:19:03 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-11-25 20:19:03 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-25 20:20:43 - HandlerCollection`1: INFO: Yasa (202.80.217.209) from 'guest' group joined. (2/8)
+2023-11-25 20:20:43 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-25 20:20:55 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-25 20:20:55 - Command: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-25 20:21:01 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: jackpot jungle yas
+2023-11-25 20:21:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: woi eye of chtulu
+2023-11-25 20:21:28 - HandlerCollection`1: INFO: Broadcast: Yasa: cok iku gawe
+2023-11-25 20:22:03 - HandlerCollection`1: INFO: Broadcast: Yasa: arena sih
+2023-11-25 20:22:14 - HandlerCollection`1: INFO: Broadcast: Yasa: mintak
+2023-11-25 20:23:36 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:23:36 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:23:46 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 20:23:46 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (2/8)
+2023-11-25 20:23:46 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 20:24:24 - HandlerCollection`1: INFO: Broadcast: Yasa: durung siap celeh
+2023-11-25 20:24:25 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tak gae arena sel
+2023-11-25 20:24:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:24:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:24:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.24.39Z.bak)
+2023-11-25 20:24:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.24.39Z.bak).
+2023-11-25 20:27:07 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:29:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:29:38 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:29:43 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 20:29:43 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (2/8)
+2023-11-25 20:29:43 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 20:34:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:34:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:34:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.34.39Z.bak)
+2023-11-25 20:34:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.34.39Z.bak).
+2023-11-25 20:35:41 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:35:41 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:35:47 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 20:35:48 - HandlerCollection`1: INFO: NgawiMusical (114.79.19.36) from 'default' group joined. (2/8)
+2023-11-25 20:35:48 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 20:35:50 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sek yas
+2023-11-25 20:36:14 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: off sek
+2023-11-25 20:36:16 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 20:36:16 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 20:37:07 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:42:10 - Bouncer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-25 20:44:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:44:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:44:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.44.39Z.bak)
+2023-11-25 20:44:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.44.39Z.bak).
+2023-11-25 20:46:47 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 20:46:47 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 20:46:47 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:46:48 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:46:48 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 20:52:48 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-25 20:52:48 - HandlerCollection`1: INFO: Hori (36.78.121.157) from 'default' group joined. (1/8)
+2023-11-25 20:52:48 - TShock: INFO: Broadcast: Hori has joined.
+2023-11-25 20:53:07 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:54:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 20:54:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 20:54:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T13.54.39Z.bak)
+2023-11-25 20:54:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T13.54.39Z.bak).
+2023-11-25 21:02:31 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-25 21:02:31 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-25 21:02:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:02:33 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:02:33 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 21:02:36 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-25 21:02:37 - HandlerCollection`1: INFO: Hori (36.78.121.157) from 'default' group joined. (1/8)
+2023-11-25 21:02:37 - TShock: INFO: Broadcast: Hori has joined.
+2023-11-25 21:03:12 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:04:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:04:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:04:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.04.39Z.bak)
+2023-11-25 21:04:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.04.39Z.bak).
+2023-11-25 21:13:12 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:14:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:14:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:14:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.14.39Z.bak)
+2023-11-25 21:14:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.14.39Z.bak).
+2023-11-25 21:23:13 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:24:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:24:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:24:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.24.39Z.bak)
+2023-11-25 21:24:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.24.39Z.bak).
+2023-11-25 21:33:13 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:34:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:34:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:34:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.34.39Z.bak)
+2023-11-25 21:34:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.34.39Z.bak).
+2023-11-25 21:43:13 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:44:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:44:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:44:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.44.39Z.bak)
+2023-11-25 21:44:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.44.39Z.bak).
+2023-11-25 21:53:13 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:54:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 21:54:41 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 21:54:41 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T14.54.39Z.bak)
+2023-11-25 21:54:41 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T14.54.39Z.bak).
+2023-11-25 22:03:13 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:04:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:04:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:04:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.04.39Z.bak)
+2023-11-25 22:04:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.04.39Z.bak).
+2023-11-25 22:05:38 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-25 22:05:38 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-25 22:05:38 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:05:40 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:05:40 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:07:33 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:07:37 - HandlerCollection`1: INFO: nop (104.28.247.133) from 'default' group joined. (1/8)
+2023-11-25 22:07:37 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:10:10 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:10:10 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:10:10 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:10:12 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:10:12 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:11:06 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:11:07 - HandlerCollection`1: INFO: nop (104.28.247.132) from 'default' group joined. (1/8)
+2023-11-25 22:11:07 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:14:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:14:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:14:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.14.39Z.bak)
+2023-11-25 22:14:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.14.39Z.bak).
+2023-11-25 22:16:04 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:24:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:24:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:24:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.24.39Z.bak)
+2023-11-25 22:24:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.24.39Z.bak).
+2023-11-25 22:25:33 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:25:33 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:25:33 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:25:35 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:25:35 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:25:41 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:25:42 - HandlerCollection`1: INFO: nop (104.28.247.133) from 'default' group joined. (1/8)
+2023-11-25 22:25:42 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:26:11 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:26:14 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:26:14 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:26:15 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:26:16 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:26:16 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:26:23 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:26:24 - HandlerCollection`1: INFO: nop (104.28.215.132) from 'default' group joined. (1/8)
+2023-11-25 22:26:24 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:28:57 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:28:57 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:28:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:28:59 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:28:59 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:29:01 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:29:02 - HandlerCollection`1: INFO: nop (104.28.247.133) from 'default' group joined. (1/8)
+2023-11-25 22:29:02 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:29:30 - Bouncer: INFO: Player nop has been disabled for Reached TileKill threshold..
+2023-11-25 22:29:48 - Bouncer: INFO: Player nop has been disabled for Reached TileKill threshold..
+2023-11-25 22:30:22 - Bouncer: INFO: Player nop has been disabled for Reached TileKill threshold..
+2023-11-25 22:30:38 - Bouncer: INFO: Player nop has been disabled for Reached TileKill threshold..
+2023-11-25 22:30:58 - Bouncer: INFO: Player nop has been disabled for Reached TileKill threshold..
+2023-11-25 22:31:12 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:31:12 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:31:12 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:31:14 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:31:14 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:33:14 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:33:16 - HandlerCollection`1: INFO: nop (104.28.247.132) from 'default' group joined. (1/8)
+2023-11-25 22:33:16 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:34:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:34:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:34:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.34.39Z.bak)
+2023-11-25 22:34:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.34.39Z.bak).
+2023-11-25 22:38:25 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:43:23 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:43:23 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:43:23 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:43:25 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:43:25 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:43:27 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:43:28 - HandlerCollection`1: INFO: nop (104.28.247.133) from 'default' group joined. (1/8)
+2023-11-25 22:43:28 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:44:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:44:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:44:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.44.39Z.bak)
+2023-11-25 22:44:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.44.39Z.bak).
+2023-11-25 22:48:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:51:56 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 22:51:56 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 22:51:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:51:58 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:51:58 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 22:53:08 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-25 22:53:09 - HandlerCollection`1: INFO: nop (104.28.247.133) from 'default' group joined. (1/8)
+2023-11-25 22:53:09 - TShock: INFO: Broadcast: nop has joined.
+2023-11-25 22:54:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 22:54:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 22:54:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T15.54.39Z.bak)
+2023-11-25 22:54:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T15.54.39Z.bak).
+2023-11-25 22:59:40 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 23:04:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 23:04:42 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 23:04:42 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-25T16.04.39Z.bak)
+2023-11-25 23:04:42 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-25T16.04.39Z.bak).
+2023-11-25 23:06:45 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-25 23:06:45 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-25 23:06:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 23:06:47 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 23:06:47 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 23:09:35 - Commands: INFO: Server executed: /exit.
+2023-11-25 23:09:35 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-25 23:09:37 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 23:09:37 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 23:09:37 - Command: INFO: Broadcast: Server shutting down!
+2023-11-25 23:09:37 - HandlerCollection`1: INFO: Broadcast: Saving world...

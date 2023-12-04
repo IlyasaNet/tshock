@@ -1,0 +1,105 @@
+[11/21/23 17:37:39] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/21/23 17:37:39] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/21/23 17:37:39] [Server API] Verbose: 	OS: Unix 5.15.0.88 (64bit: True)
+[11/21/23 17:37:39] [Server API] Verbose: 	Mono: False
+[11/21/23 17:37:40] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/21/23 17:40:30] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/21/23 17:40:30] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/21/23 17:40:30] [Server API] Verbose: 	OS: Unix 5.15.0.88 (64bit: True)
+[11/21/23 17:40:30] [Server API] Verbose: 	Mono: False
+[11/21/23 17:40:31] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/21/23 17:52:37] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/21/23 17:52:37] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/21/23 17:52:37] [Server API] Verbose: 	OS: Unix 5.15.0.88 (64bit: True)
+[11/21/23 17:52:37] [Server API] Verbose: 	Mono: False
+[11/21/23 17:52:37] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/24/23 16:47:45] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/23 16:47:46] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/24/23 16:47:46] [Server API] Verbose: 	OS: Unix 5.15.0.88 (64bit: True)
+[11/24/23 16:47:46] [Server API] Verbose: 	Mono: False
+[11/24/23 16:47:46] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/24/23 17:26:18] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/23 17:26:18] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/24/23 17:26:18] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/24/23 17:26:18] [Server API] Verbose: 	Mono: False
+[11/24/23 17:26:19] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/24/23 17:29:16] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/23 17:29:16] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/24/23 17:29:16] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/24/23 17:29:16] [Server API] Verbose: 	Mono: False
+[11/24/23 17:29:17] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/24/23 17:30:33] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/23 17:30:33] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/24/23 17:30:33] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/24/23 17:30:33] [Server API] Verbose: 	Mono: False
+[11/24/23 17:30:34] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/24/23 23:40:48] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/24/23 23:40:48] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/24/23 23:40:48] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/24/23 23:40:48] [Server API] Verbose: 	Mono: False
+[11/24/23 23:40:48] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/25/23 00:22:19] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/25/23 00:22:19] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/25/23 00:22:19] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/25/23 00:22:19] [Server API] Verbose: 	Mono: False
+[11/25/23 00:22:20] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 03:58:02] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 03:58:02] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 03:58:02] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 03:58:02] [Server API] Verbose: 	Mono: False
+[11/26/23 03:58:02] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 04:03:33] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 04:03:33] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 04:03:33] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 04:03:33] [Server API] Verbose: 	Mono: False
+[11/26/23 04:03:34] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 13:06:20] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 13:06:20] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 13:06:20] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 13:06:20] [Server API] Verbose: 	Mono: False
+[11/26/23 13:06:20] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 13:08:13] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 13:08:13] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 13:08:13] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 13:08:13] [Server API] Verbose: 	Mono: False
+[11/26/23 13:08:13] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 13:10:22] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 13:10:22] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 13:10:22] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 13:10:22] [Server API] Verbose: 	Mono: False
+[11/26/23 13:10:22] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 13:22:22] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 13:22:22] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 13:22:22] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 13:22:22] [Server API] Verbose: 	Mono: False
+[11/26/23 13:22:23] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[11/26/23 13:24:35] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[11/26/23 13:24:35] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[11/26/23 13:24:35] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[11/26/23 13:24:35] [Server API] Verbose: 	Mono: False
+[11/26/23 13:24:36] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[12/01/23 17:38:46] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/01/23 17:38:47] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[12/01/23 17:38:47] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[12/01/23 17:38:47] [Server API] Verbose: 	Mono: False
+[12/01/23 17:38:47] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[12/01/23 17:45:49] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/01/23 17:45:49] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[12/01/23 17:45:49] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[12/01/23 17:45:49] [Server API] Verbose: 	Mono: False
+[12/01/23 17:45:50] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[12/04/23 08:59:19] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/04/23 08:59:19] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[12/04/23 08:59:19] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[12/04/23 08:59:19] [Server API] Verbose: 	Mono: False
+[12/04/23 08:59:20] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[12/04/23 09:03:00] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/04/23 09:03:00] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[12/04/23 09:03:00] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[12/04/23 09:03:00] [Server API] Verbose: 	Mono: False
+[12/04/23 09:03:01] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.
+[12/04/23 09:11:03] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[12/04/23 09:11:04] [Server API] Verbose: 	Command line: /root/TShock/TShock.Server
+[12/04/23 09:11:04] [Server API] Verbose: 	OS: Unix 5.15.0.89 (64bit: True)
+[12/04/23 09:11:04] [Server API] Verbose: 	Mono: False
+[12/04/23 09:11:04] [Server API] Info: Plugin TShock v5.2.0.0 (by The TShock Team) initiated.

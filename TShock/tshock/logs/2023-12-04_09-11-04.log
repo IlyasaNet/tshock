@@ -1,0 +1,196 @@
+2023-12-04 09:11:04 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-12-04 09:11:04 - TShock: INFO: AutoSave Enabled
+2023-12-04 09:11:04 - TShock: INFO: Backups Enabled
+2023-12-04 09:11:04 - TShock: INFO: Welcome to TShock for Terraria!
+2023-12-04 09:11:04 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-12-04 09:11:04 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-12-04 09:11:33 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-12-04 09:11:33 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-12-04 09:11:33 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-12-04 09:11:33 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-12-04 09:11:33 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-12-04 09:11:33 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-12-04 09:11:33 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-12-04 09:12:16 - Utils: INFO: Server executed (args omitted): /user.
+2023-12-04 09:12:16 - Commands: INFO: Server added account superadmin to group superadmin.
+2023-12-04 09:12:31 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 09:12:33 - TShock: INFO: Yasa (182.1.103.63) from 'default' group joined. (1/8)
+2023-12-04 09:12:33 - Utils: INFO: Broadcast: Yasa has joined.
+2023-12-04 09:12:42 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:12:49 - Utils: INFO: Yasa executed (args omitted): /logout.
+2023-12-04 09:13:02 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:13:02 - Commands: WARNING: 182.1.103.63 failed to authenticate as user: superadmin.
+2023-12-04 09:13:11 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:13:11 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 09:13:11 - Commands: INFO: Yasa authenticated successfully as user: superadmin.
+2023-12-04 09:13:37 - Utils: INFO: Yasa executed: /su give 29 Yasa 10.
+2023-12-04 09:13:59 - Utils: INFO: Yasa executed: /su.
+2023-12-04 09:14:07 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-04 09:14:08 - TShock: INFO: nop (103.24.56.38) from 'default' group joined. (2/8)
+2023-12-04 09:14:08 - Utils: INFO: Broadcast: nop has joined.
+2023-12-04 09:14:25 - Utils: INFO: Yasa executed: /give 29 Yasa 10.
+2023-12-04 09:14:40 - Utils: INFO: Broadcast: nop: woe cheater
+2023-12-04 09:14:56 - TSPlayer: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 09:14:56 - TSPlayer: INFO: Kicked Yasa for : 'You logged in from the same IP.'
+2023-12-04 09:14:56 - TShock: INFO: Yasa disconnected.
+2023-12-04 09:14:56 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 09:14:56 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 09:14:58 - TShock: INFO: Yasa (182.1.103.63) from 'default' group joined. (2/8)
+2023-12-04 09:14:58 - Utils: INFO: Broadcast: Yasa has joined.
+2023-12-04 09:15:04 - Utils: INFO: Broadcast: nop: woe cheater
+2023-12-04 09:15:07 - Utils: INFO: Broadcast: Yasa: /
+2023-12-04 09:15:33 - Utils: INFO: Yasa tried to execute /give 29 Yasa 10.
+2023-12-04 09:15:50 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:15:58 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-04 09:15:58 - Utils: INFO: Yasa executed (args omitted): /logout.
+2023-12-04 09:15:58 - TShock: INFO: Hori (103.24.56.38) from 'default' group joined. (3/8)
+2023-12-04 09:15:58 - Utils: INFO: Broadcast: Hori has joined.
+2023-12-04 09:16:16 - GetDataHandlers: INFO: superadmin has SSC data in the database, but has the tshock.ignore.ssc permission. This means their SSC data is being ignored.
+2023-12-04 09:16:16 - GetDataHandlers: INFO: You may wish to consider removing the tshock.ignore.ssc permission or negating it for this player.
+2023-12-04 09:16:16 - GetDataHandlers: INFO: superadmin authenticated successfully as user superadmin.
+2023-12-04 09:16:17 - TShock: INFO: superadmin (182.1.103.63) from 'superadmin' group joined. (4/8)
+2023-12-04 09:16:17 - Utils: INFO: Broadcast: superadmin has joined.
+2023-12-04 09:16:18 - Utils: INFO: Broadcast: Yasa has left.
+2023-12-04 09:16:18 - TShock: INFO: Yasa disconnected.
+2023-12-04 09:16:25 - Utils: INFO: superadmin executed (args omitted): /login.
+2023-12-04 09:16:25 - Utils: INFO: Broadcast: Hori: ayo pel by 1
+2023-12-04 09:16:45 - Utils: INFO: superadmin executed: /give 29 Yasa 10.
+2023-12-04 09:17:03 - Utils: INFO: Broadcast: (Super Admin) superadmin: halo
+2023-12-04 09:17:40 - TShock: INFO: Broadcast: Hori: lagi item aku
+2023-12-04 09:17:49 - Commands: INFO: superadmin executed: /kill Hori.
+2023-12-04 09:18:05 - Commands: INFO: superadmin executed: /kill nop.
+2023-12-04 09:18:15 - TShock: INFO: Broadcast: nop: halah
+2023-12-04 09:18:17 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'guest' group joined. (4/8)
+2023-12-04 09:18:17 - Utils: INFO: Broadcast: Yasa has joined.
+2023-12-04 09:18:30 - Commands: INFO: superadmin executed: /give 29 Yasa 10.
+2023-12-04 09:19:14 - Commands: INFO: superadmin executed: /give 29 Yasa 10.
+2023-12-04 09:19:18 - TShock: INFO: Broadcast: nop: anjg nge cheat
+2023-12-04 09:19:45 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:19:45 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-12-04 09:20:14 - Commands: INFO: superadmin executed: /give 29 Yasa 10.
+2023-12-04 09:20:21 - TShock: INFO: Broadcast: Yasa: ls
+2023-12-04 09:20:35 - Commands: INFO: superadmin executed: /give 29 Hori 1.
+2023-12-04 09:20:50 - Commands: INFO: superadmin executed: /kill nop.
+2023-12-04 09:21:04 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 09:21:04 - Utils: INFO: Broadcast: Saving world...
+2023-12-04 09:21:05 - TShock: INFO: Broadcast: nop: cheater anjg
+2023-12-04 09:21:07 - SaveManager: INFO: Broadcast: World saved.
+2023-12-04 09:21:07 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T02.21.04Z.bak)
+2023-12-04 09:21:07 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T02.21.04Z.bak).
+2023-12-04 09:21:23 - TShock: INFO: Broadcast: Yasa: lah gk ada
+2023-12-04 09:21:35 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 09:21:35 - TSPlayer: INFO: Kicked Yasa for : 'You logged in from the same IP.'
+2023-12-04 09:21:36 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 09:21:40 - HandlerCollection`1: INFO: Yasa (103.24.56.38) from 'default' group joined. (4/8)
+2023-12-04 09:21:40 - Utils: INFO: Broadcast: Yasa has joined.
+2023-12-04 09:21:58 - TShock: INFO: Broadcast: (Super Admin) superadmin: ls
+2023-12-04 09:22:13 - TShock: INFO: Broadcast: Yasa: g
+2023-12-04 09:22:21 - Commands: INFO: superadmin executed: /give 29 Yasa 10.
+2023-12-04 09:22:30 - Utils: INFO: Broadcast: Saving world...
+2023-12-04 09:22:51 - TShock: INFO: Broadcast: superadmin has left.
+2023-12-04 09:22:51 - HandlerCollection`1: INFO: superadmin disconnected.
+2023-12-04 09:22:51 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 09:27:09 - TShock: INFO: Broadcast: Yasa has left.
+2023-12-04 09:27:09 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 09:27:53 - Commands: INFO: Hori executed: .playing.
+2023-12-04 09:31:04 - Utils: INFO: Broadcast: Saving world...
+2023-12-04 09:31:07 - SaveManager: INFO: Broadcast: World saved.
+2023-12-04 09:31:07 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T02.31.04Z.bak)
+2023-12-04 09:31:07 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T02.31.04Z.bak).
+2023-12-04 09:32:30 - Utils: INFO: Broadcast: Saving world...
+2023-12-04 09:33:34 - TShock: INFO: Broadcast: Hori has left.
+2023-12-04 09:33:34 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-04 09:41:04 - Utils: INFO: Broadcast: Saving world...
+2023-12-04 09:41:07 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 09:41:07 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T02.41.04Z.bak)
+2023-12-04 09:41:07 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T02.41.04Z.bak).
+2023-12-04 09:42:30 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 09:44:00 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-04 09:44:02 - HandlerCollection`1: INFO: NgawiMusical (114.79.21.184) from 'default' group joined. (2/8)
+2023-12-04 09:44:02 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-04 09:46:10 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-04 09:46:13 - HandlerCollection`1: INFO: Broadcast: nop: pada dmn?
+2023-12-04 09:46:23 - HandlerCollection`1: INFO: Yasa (182.1.103.63) from 'guest' group joined. (3/8)
+2023-12-04 09:46:23 - TShock: INFO: Broadcast: Yasa has joined.
+2023-12-04 09:46:39 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:46:39 - Commands: WARNING: 182.1.103.63 failed to authenticate as user: Yasa.
+2023-12-04 09:46:47 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-12-04 09:46:47 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-12-04 09:48:21 - GetDataHandlers: INFO: nop summoned the The Destroyer!
+2023-12-04 09:48:47 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-04 09:48:52 - HandlerCollection`1: INFO: Broadcast: nop: kepencet
+2023-12-04 09:49:22 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-04 09:49:23 - HandlerCollection`1: INFO: Hori (103.24.56.38) from 'default' group joined. (4/8)
+2023-12-04 09:49:23 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-04 09:50:34 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: siapa spawn ?
+2023-12-04 09:50:45 - HandlerCollection`1: INFO: Broadcast: nop: aku XD
+2023-12-04 09:50:48 - HandlerCollection`1: INFO: Broadcast: nop: kepencet
+2023-12-04 09:51:01 - HandlerCollection`1: INFO: Broadcast: nop: padahal mau bikin arena dulu
+2023-12-04 09:51:04 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 09:51:08 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 09:51:08 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T02.51.04Z.bak)
+2023-12-04 09:51:08 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T02.51.04Z.bak).
+2023-12-04 09:51:30 - GetDataHandlers: INFO: NgawiMusical summoned the Retinazer!
+2023-12-04 09:51:30 - GetDataHandlers: INFO: NgawiMusical summoned the Spazmatism!
+2023-12-04 09:51:37 - HandlerCollection`1: INFO: Broadcast: nop: bukan aku ini
+2023-12-04 09:52:04 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: bntu cok
+2023-12-04 09:52:30 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 09:53:02 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: benowo ndi
+2023-12-04 09:53:47 - HandlerCollection`1: INFO: Broadcast: nop: siapa yang summon
+2023-12-04 09:55:33 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-12-04 09:55:33 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 09:56:03 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-04 09:56:03 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-04 09:57:13 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-04 09:57:13 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-04 10:01:04 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:01:07 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:01:07 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T03.01.04Z.bak)
+2023-12-04 10:01:07 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T03.01.04Z.bak).
+2023-12-04 10:01:21 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-04 10:01:21 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-04 10:01:21 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:01:23 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:01:23 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-04 10:01:37 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 10:01:39 - HandlerCollection`1: INFO: Yasa (182.1.103.63) from 'default' group joined. (1/8)
+2023-12-04 10:01:39 - TShock: INFO: Broadcast: Yasa has joined.
+2023-12-04 10:02:45 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:03:40 - Commands: INFO: Yasa executed (args omitted): /logout.
+2023-12-04 10:03:50 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-12-04 10:03:50 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 10:03:50 - Commands: INFO: Yasa authenticated successfully as user: superadmin.
+2023-12-04 10:06:04 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 10:06:06 - Commands: INFO: Yasa executed: /give 50 Yasa 1.
+2023-12-04 10:06:17 - TSPlayer: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 10:06:17 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 10:06:17 - CharacterManager: INFO: Skipping SSC save (due to tshock.ignore.ssc) for superadmin
+2023-12-04 10:06:17 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:06:17 - TSPlayer: INFO: Kicked Yasa for : 'You logged in from the same IP.'
+2023-12-04 10:06:17 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 10:06:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:06:20 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-04 10:06:20 - HandlerCollection`1: INFO: Yasa (182.1.103.63) from 'default' group joined. (1/8)
+2023-12-04 10:06:20 - TShock: INFO: Broadcast: Yasa has joined.
+2023-12-04 10:10:42 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-12-04 10:10:42 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 10:10:42 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:10:43 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:10:43 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-04 10:30:11 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:30:11 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-04 10:30:13 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (1/8)
+2023-12-04 10:30:13 - TShock: INFO: Broadcast: nop has joined.
+2023-12-04 10:30:15 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:30:15 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T03.30.11Z.bak)
+2023-12-04 10:30:15 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T03.30.11Z.bak).
+2023-12-04 10:32:15 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:40:11 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:40:14 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:40:14 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T03.40.11Z.bak)
+2023-12-04 10:40:14 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T03.40.11Z.bak).
+2023-12-04 10:40:42 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-04 10:40:42 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-04 10:40:42 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-04 10:40:43 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 10:40:43 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)

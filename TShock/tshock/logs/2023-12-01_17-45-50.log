@@ -1,0 +1,1687 @@
+2023-12-01 17:45:50 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-12-01 17:45:50 - TShock: INFO: AutoSave Enabled
+2023-12-01 17:45:50 - TShock: INFO: Backups Enabled
+2023-12-01 17:45:50 - TShock: INFO: Welcome to TShock for Terraria!
+2023-12-01 17:45:50 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-12-01 17:45:50 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-12-01 17:46:23 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-12-01 17:46:23 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-12-01 17:46:23 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-12-01 17:46:23 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-12-01 17:46:23 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-12-01 17:46:23 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-12-01 17:46:23 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-12-01 18:37:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 18:37:24 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-01 18:37:26 - TShock: INFO: nop (112.215.173.253) from 'default' group joined. (1/8)
+2023-12-01 18:37:26 - Utils: INFO: Broadcast: nop has joined.
+2023-12-01 18:37:27 - Utils: INFO: Broadcast: World saved.
+2023-12-01 18:37:27 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T11.37.22Z.bak)
+2023-12-01 18:37:27 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T11.37.22Z.bak).
+2023-12-01 18:47:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 18:47:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 18:47:25 - Utils: INFO: Broadcast: World saved.
+2023-12-01 18:47:25 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T11.47.22Z.bak)
+2023-12-01 18:47:25 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T11.47.22Z.bak).
+2023-12-01 18:55:25 - Utils: INFO: nop summoned the Deerclops!
+2023-12-01 18:57:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 18:57:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 18:57:25 - Utils: INFO: Broadcast: World saved.
+2023-12-01 18:57:25 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T11.57.22Z.bak)
+2023-12-01 18:57:25 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T11.57.22Z.bak).
+2023-12-01 19:07:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:07:23 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:07:25 - Utils: INFO: Broadcast: World saved.
+2023-12-01 19:07:25 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T12.07.22Z.bak)
+2023-12-01 19:07:25 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T12.07.22Z.bak).
+2023-12-01 19:17:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:17:23 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:17:25 - Utils: INFO: Broadcast: World saved.
+2023-12-01 19:17:25 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T12.17.22Z.bak)
+2023-12-01 19:17:25 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T12.17.22Z.bak).
+2023-12-01 19:27:22 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:27:23 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:27:25 - Utils: INFO: Broadcast: World saved.
+2023-12-01 19:27:25 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T12.27.22Z.bak)
+2023-12-01 19:27:25 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T12.27.22Z.bak).
+2023-12-01 19:34:35 - Utils: INFO: Broadcast: nop has left.
+2023-12-01 19:34:35 - TShock: INFO: nop disconnected.
+2023-12-01 19:34:35 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 19:34:37 - Utils: INFO: Broadcast: World saved.
+2023-12-01 19:34:37 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-01 21:11:06 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 21:11:06 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-01 21:11:07 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-01 21:11:07 - Utils: INFO: Broadcast: flow has joined.
+2023-12-01 21:11:10 - SaveManager: INFO: Broadcast: World saved.
+2023-12-01 21:11:10 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T14.11.06Z.bak)
+2023-12-01 21:11:10 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T14.11.06Z.bak).
+2023-12-01 21:12:07 - TShock: INFO: Broadcast: flow has left.
+2023-12-01 21:12:07 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-01 21:12:07 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 21:12:09 - SaveManager: INFO: Broadcast: World saved.
+2023-12-01 21:12:09 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-01 21:14:02 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-01 21:14:02 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-01 21:14:02 - Utils: INFO: Broadcast: flow has joined.
+2023-12-01 21:14:35 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-01 21:14:36 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (2/8)
+2023-12-01 21:14:36 - Utils: INFO: Broadcast: Hori has joined.
+2023-12-01 21:15:13 - TShock: INFO: Broadcast: flow: demon altar dimana ris?
+2023-12-01 21:15:25 - TShock: INFO: Broadcast: Hori: dungeon paling
+2023-12-01 21:15:48 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 21:16:35 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-12-01 21:16:35 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-12-01 21:17:44 - TSPlayer: INFO: Kicked flow for : 'You logged in from the same IP.'
+2023-12-01 21:17:44 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-01 21:17:44 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-01 21:17:45 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-01 21:17:45 - Utils: INFO: Broadcast: flow has joined.
+2023-12-01 21:21:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:21:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 21:21:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T14.21.06Z.bak)
+2023-12-01 21:21:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T14.21.06Z.bak).
+2023-12-01 21:25:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:30:06 - HandlerCollection`1: INFO: Broadcast: flow: ayo lawan bos ris
+2023-12-01 21:30:12 - HandlerCollection`1: INFO: Broadcast: flow: eye chuthulu
+2023-12-01 21:31:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:31:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 21:31:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T14.31.06Z.bak)
+2023-12-01 21:31:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T14.31.06Z.bak).
+2023-12-01 21:31:24 - HandlerCollection`1: INFO: Broadcast: Hori: coba summon
+2023-12-01 21:31:37 - HandlerCollection`1: INFO: Broadcast: flow: gurumg malem isok ta?
+2023-12-01 21:31:44 - HandlerCollection`1: INFO: Broadcast: Hori: sleep sek
+2023-12-01 21:31:55 - HandlerCollection`1: INFO: Broadcast: Hori: mben cepet bengi
+2023-12-01 21:32:10 - Commands: INFO: Hori executed: .playing.
+2023-12-01 21:33:58 - HandlerCollection`1: INFO: Broadcast: Hori: sumonen
+2023-12-01 21:33:59 - HandlerCollection`1: INFO: Broadcast: flow: gurung isok i
+2023-12-01 21:34:43 - HandlerCollection`1: INFO: Broadcast: flow: sumonen rs
+2023-12-01 21:35:40 - HandlerCollection`1: INFO: Broadcast: Hori: gak kenek
+2023-12-01 21:35:45 - HandlerCollection`1: INFO: Broadcast: flow: makane
+2023-12-01 21:35:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:37:01 - GetDataHandlers: INFO: flow summoned the Eye of Cthulhu!
+2023-12-01 21:38:30 - HandlerCollection`1: INFO: Broadcast: flow: elek hadiah ne
+2023-12-01 21:38:59 - HandlerCollection`1: INFO: Broadcast: Hori: ayo cacing nek ngunu
+2023-12-01 21:39:06 - HandlerCollection`1: INFO: Broadcast: flow: ayo
+2023-12-01 21:39:09 - HandlerCollection`1: INFO: Broadcast: Hori: join tim abang
+2023-12-01 21:40:09 - GetDataHandlers: INFO: Hori summoned the Eater of Worlds!
+2023-12-01 21:41:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:41:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 21:41:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T14.41.06Z.bak)
+2023-12-01 21:41:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T14.41.06Z.bak).
+2023-12-01 21:41:11 - HandlerCollection`1: INFO: Broadcast: Hori: ayo yele
+2023-12-01 21:42:38 - HandlerCollection`1: INFO: Broadcast: Hori: maneh ?
+2023-12-01 21:42:59 - HandlerCollection`1: INFO: Broadcast: flow: maneh
+2023-12-01 21:43:05 - GetDataHandlers: INFO: Hori summoned the Eater of Worlds!
+2023-12-01 21:43:34 - HandlerCollection`1: INFO: Broadcast: Hori: kalah
+2023-12-01 21:43:50 - HandlerCollection`1: INFO: Broadcast: flow: sek aku bikin juguk mana regen sek
+2023-12-01 21:44:00 - HandlerCollection`1: INFO: Broadcast: Hori: siji maneh sek iso
+2023-12-01 21:45:24 - GetDataHandlers: INFO: Hori summoned the Eater of Worlds!
+2023-12-01 21:45:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:46:02 - HandlerCollection`1: INFO: Broadcast: flow: wkwk kalah ne
+2023-12-01 21:46:11 - HandlerCollection`1: INFO: Broadcast: Hori: kudu onok athur jane
+2023-12-01 21:46:23 - HandlerCollection`1: INFO: Broadcast: Hori: armor e tebel soale
+2023-12-01 21:46:41 - HandlerCollection`1: INFO: Broadcast: flow: cara bikin mana neclace pie?
+2023-12-01 21:47:36 - HandlerCollection`1: INFO: Broadcast: Hori: item e oleh teko ngacurno orb 
+2023-12-01 21:48:19 - HandlerCollection`1: INFO: Broadcast: flow: demon altar nang dih si?
+2023-12-01 21:48:26 - HandlerCollection`1: INFO: Broadcast: flow: aku arep buat slime king
+2023-12-01 21:48:57 - HandlerCollection`1: INFO: Broadcast: Hori: gak ngerti aku
+2023-12-01 21:49:09 - HandlerCollection`1: INFO: Broadcast: Hori: nopel seng luwih paham
+2023-12-01 21:49:21 - HandlerCollection`1: INFO: Broadcast: flow: oke
+2023-12-01 21:50:10 - HandlerCollection`1: INFO: Broadcast: flow: awak mu ngeengine yo?
+2023-12-01 21:50:17 - HandlerCollection`1: INFO: Broadcast: flow: wes duwe senjata nogo
+2023-12-01 21:50:23 - HandlerCollection`1: INFO: Broadcast: Hori: iki oleh teko dungeon
+2023-12-01 21:50:40 - HandlerCollection`1: INFO: Broadcast: flow: ngapusi
+2023-12-01 21:50:55 - HandlerCollection`1: INFO: Broadcast: Hori: makane dungeon iku di dilok
+2023-12-01 21:51:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 21:51:10 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 21:51:10 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T14.51.06Z.bak)
+2023-12-01 21:51:10 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T14.51.06Z.bak).
+2023-12-01 21:51:29 - HandlerCollection`1: INFO: Broadcast: flow: lawan cacing lgi gak ris?
+2023-12-01 21:51:35 - HandlerCollection`1: INFO: Broadcast: Hori: entek
+2023-12-01 21:51:41 - HandlerCollection`1: INFO: Broadcast: flow: aku onok siji
+2023-12-01 21:51:48 - HandlerCollection`1: INFO: Broadcast: Hori: sembarang se
+2023-12-01 21:52:45 - HandlerCollection`1: INFO: Broadcast: flow: gaonok ris item e
+2023-12-01 21:53:00 - HandlerCollection`1: INFO: Broadcast: flow: wes gak usah ae
+2023-12-01 21:55:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:01:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:01:10 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:01:10 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.01.06Z.bak)
+2023-12-01 22:01:10 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.01.06Z.bak).
+2023-12-01 22:05:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:11:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:11:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:11:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.11.06Z.bak)
+2023-12-01 22:11:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.11.06Z.bak).
+2023-12-01 22:13:59 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-01 22:13:59 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-01 22:15:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:16:18 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-01 22:16:19 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-01 22:16:19 - TShock: INFO: Broadcast: flow has joined.
+2023-12-01 22:21:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:21:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:21:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.21.06Z.bak)
+2023-12-01 22:21:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.21.06Z.bak).
+2023-12-01 22:25:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:28:39 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-01 22:28:39 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-01 22:31:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-12-01 22:31:10 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:31:10 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.31.06Z.bak)
+2023-12-01 22:31:10 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.31.06Z.bak).
+2023-12-01 22:34:50 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-01 22:34:51 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-01 22:34:51 - TShock: INFO: Broadcast: flow has joined.
+2023-12-01 22:35:48 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 22:41:06 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 22:41:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:41:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.41.06Z.bak)
+2023-12-01 22:41:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.41.06Z.bak).
+2023-12-01 22:45:48 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 22:50:29 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-01 22:50:29 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-01 22:50:33 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-01 22:50:34 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (2/8)
+2023-12-01 22:50:34 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-01 22:50:43 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-01 22:50:43 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-01 22:51:06 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 22:51:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 22:51:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T15.51.06Z.bak)
+2023-12-01 22:51:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T15.51.06Z.bak).
+2023-12-01 22:55:48 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 23:01:06 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 23:01:09 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 23:01:09 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T16.01.06Z.bak)
+2023-12-01 23:01:09 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T16.01.06Z.bak).
+2023-12-01 23:05:49 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 23:06:08 - GetDataHandlers: INFO: Hori started the Old One's Army event!
+2023-12-01 23:11:06 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 23:11:10 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 23:11:10 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-01T16.11.06Z.bak)
+2023-12-01 23:11:10 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-01T16.11.06Z.bak).
+2023-12-01 23:14:19 - Commands: INFO: Hori executed: .playing.
+2023-12-01 23:15:17 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-01 23:15:17 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-01 23:15:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-01 23:15:19 - StartHelper: INFO: Broadcast: World saved.
+2023-12-01 23:15:19 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-02 01:21:48 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-12-02 01:21:48 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-12-02 08:57:07 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-12-02 08:57:07 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-12-02 11:49:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 11:49:44 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 11:49:46 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-02 11:49:46 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 11:49:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 11:49:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T04.49.44Z.bak)
+2023-12-02 11:49:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T04.49.44Z.bak).
+2023-12-02 11:50:15 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 11:58:03 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-02 11:58:03 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-02 11:58:03 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 11:58:05 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 11:58:05 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-02 12:06:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:06:42 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 12:06:43 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-02 12:06:43 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 12:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.06.42Z.bak)
+2023-12-02 12:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.06.42Z.bak).
+2023-12-02 12:08:54 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:16:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:16:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:16:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.16.42Z.bak)
+2023-12-02 12:16:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.16.42Z.bak).
+2023-12-02 12:16:54 - Commands: INFO: Server executed: /playing.
+2023-12-02 12:18:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:26:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:26:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:26:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.26.42Z.bak)
+2023-12-02 12:26:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.26.42Z.bak).
+2023-12-02 12:28:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:36:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:36:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:36:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.36.42Z.bak)
+2023-12-02 12:36:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.36.42Z.bak).
+2023-12-02 12:38:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:46:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:46:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:46:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.46.42Z.bak)
+2023-12-02 12:46:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.46.42Z.bak).
+2023-12-02 12:48:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:56:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 12:56:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 12:56:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T05.56.42Z.bak)
+2023-12-02 12:56:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T05.56.42Z.bak).
+2023-12-02 12:58:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:06:27 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-02 13:06:28 - HandlerCollection`1: INFO: nop (104.28.215.133) from 'default' group joined. (2/8)
+2023-12-02 13:06:28 - TShock: INFO: Broadcast: nop has joined.
+2023-12-02 13:06:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:06:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:06:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.06.42Z.bak)
+2023-12-02 13:06:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.06.42Z.bak).
+2023-12-02 13:08:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:10:33 - HandlerCollection`1: INFO: Broadcast: flow: PEL MINTA BAIT
+2023-12-02 13:10:43 - HandlerCollection`1: INFO: Broadcast: nop: aku perlu banyak
+2023-12-02 13:10:49 - HandlerCollection`1: INFO: Broadcast: nop: lagi quest
+2023-12-02 13:16:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.16.42Z.bak)
+2023-12-02 13:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.16.42Z.bak).
+2023-12-02 13:18:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:26:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.26.42Z.bak)
+2023-12-02 13:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.26.42Z.bak).
+2023-12-02 13:28:47 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-02 13:28:48 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (3/8)
+2023-12-02 13:28:48 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-02 13:28:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:29:01 - HandlerCollection`1: INFO: Broadcast: nop: oe
+2023-12-02 13:29:10 - HandlerCollection`1: INFO: Broadcast: nop: bagi duit atau dynamite dong
+2023-12-02 13:29:30 - HandlerCollection`1: INFO: Broadcast: nop: bang
+2023-12-02 13:29:32 - HandlerCollection`1: INFO: Broadcast: nop: bagi duit
+2023-12-02 13:29:39 - HandlerCollection`1: INFO: Broadcast: nop: aku butuh buat arena
+2023-12-02 13:30:04 - HandlerCollection`1: INFO: Broadcast: Hori: ku kasih platinum satu
+2023-12-02 13:30:10 - HandlerCollection`1: INFO: Broadcast: nop: mana
+2023-12-02 13:30:18 - HandlerCollection`1: INFO: Broadcast: nop: sip
+2023-12-02 13:30:43 - HandlerCollection`1: INFO: Broadcast: nop: dah habis
+2023-12-02 13:30:44 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-02 13:30:45 - HandlerCollection`1: INFO: NgawiMusical (114.79.21.66) from 'default' group joined. (4/8)
+2023-12-02 13:30:45 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-02 13:30:56 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 13:31:08 - GetDataHandlers: INFO: Hori started the Old One's Army event!
+2023-12-02 13:36:30 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: habis grinding kah pel 
+2023-12-02 13:36:35 - HandlerCollection`1: INFO: Broadcast: nop: ya
+2023-12-02 13:36:39 - HandlerCollection`1: INFO: Broadcast: nop: habis quest angler
+2023-12-02 13:36:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:36:43 - HandlerCollection`1: INFO: Broadcast: nop: dah ke 11
+2023-12-02 13:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.36.42Z.bak)
+2023-12-02 13:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.36.42Z.bak).
+2023-12-02 13:37:23 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: awkawkawkkaa
+2023-12-02 13:37:35 - HandlerCollection`1: INFO: Broadcast: Hori: def mu kegeden
+2023-12-02 13:38:01 - HandlerCollection`1: INFO: Broadcast: nop: slime diamana?
+2023-12-02 13:38:33 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tak bikin arena wall of flesh
+2023-12-02 13:38:47 - HandlerCollection`1: INFO: Broadcast: nop: aku lak prepare 
+2023-12-02 13:38:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:38:57 - HandlerCollection`1: INFO: Broadcast: nop: biar corrupt nya gk nyebar
+2023-12-02 13:45:33 - HandlerCollection`1: INFO: Broadcast: Hori: Shimering dimana ?
+2023-12-02 13:45:44 - HandlerCollection`1: INFO: Broadcast: nop: di pojokan biasanya
+2023-12-02 13:46:21 - HandlerCollection`1: INFO: Broadcast: nop: prediksiku dibawah dungeon
+2023-12-02 13:46:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.46.42Z.bak)
+2023-12-02 13:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.46.42Z.bak).
+2023-12-02 13:48:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:53:46 - HandlerCollection`1: INFO: Broadcast: Hori: pel quen bee ke kamu
+2023-12-02 13:55:07 - Commands: INFO: flow executed: /playing.
+2023-12-02 13:55:43 - Commands: INFO: nop executed: /playing.
+2023-12-02 13:55:45 - HandlerCollection`1: INFO: Broadcast: nop: tolol
+2023-12-02 13:55:55 - HandlerCollection`1: INFO: Broadcast: nop: red
+2023-12-02 13:56:17 - HandlerCollection`1: INFO: Broadcast: nop: masuk red
+2023-12-02 13:56:19 - HandlerCollection`1: INFO: Broadcast: nop: cepet
+2023-12-02 13:56:31 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 13:56:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 13:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 13:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T06.56.42Z.bak)
+2023-12-02 13:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T06.56.42Z.bak).
+2023-12-02 13:56:56 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sopo ngespawn i wkwkwk
+2023-12-02 13:58:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:00:34 - HandlerCollection`1: INFO: Broadcast: Hori: aku butuh shimering
+2023-12-02 14:00:43 - HandlerCollection`1: INFO: Broadcast: nop: coba cari
+2023-12-02 14:01:37 - HandlerCollection`1: INFO: Broadcast: nop: habis gini kucariin
+2023-12-02 14:02:02 - HandlerCollection`1: INFO: Broadcast: nop: lah
+2023-12-02 14:02:17 - HandlerCollection`1: INFO: Broadcast: Hori: join ngawi
+2023-12-02 14:02:57 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: ngelagg
+2023-12-02 14:02:58 - HandlerCollection`1: INFO: Broadcast: Hori: noob ngawi
+2023-12-02 14:03:08 - HandlerCollection`1: INFO: Broadcast: nop: jangan start dulu oe
+2023-12-02 14:03:20 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: boneka jatuh di lava
+2023-12-02 14:06:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.06.42Z.bak)
+2023-12-02 14:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.06.42Z.bak).
+2023-12-02 14:08:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:10:22 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-02 14:10:22 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-02 14:10:28 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-02 14:10:29 - HandlerCollection`1: INFO: NgawiMusical (114.79.21.66) from 'default' group joined. (4/8)
+2023-12-02 14:10:29 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-02 14:12:33 - HandlerCollection`1: INFO: Broadcast: nop: jangan start dulu lah
+2023-12-02 14:12:43 - HandlerCollection`1: INFO: Broadcast: nop: ini corrupt bakalan nyebar
+2023-12-02 14:13:20 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku ngelag cok delay 
+2023-12-02 14:15:01 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-02 14:15:01 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-02 14:16:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.16.42Z.bak)
+2023-12-02 14:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.16.42Z.bak).
+2023-12-02 14:18:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:26:13 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-02 14:26:14 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (4/8)
+2023-12-02 14:26:14 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-02 14:26:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.26.42Z.bak)
+2023-12-02 14:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.26.42Z.bak).
+2023-12-02 14:28:51 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-02 14:28:55 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:29:04 - HandlerCollection`1: INFO: Broadcast: nop: inicorrupt nya sampai dungeon
+2023-12-02 14:33:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-02 14:33:08 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-02 14:36:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.36.42Z.bak)
+2023-12-02 14:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.36.42Z.bak).
+2023-12-02 14:38:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:40:37 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 14:40:53 - Commands: INFO: nop executed: /playing.
+2023-12-02 14:46:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.46.42Z.bak)
+2023-12-02 14:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.46.42Z.bak).
+2023-12-02 14:48:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:49:28 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-02 14:49:28 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-02 14:56:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 14:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 14:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T07.56.42Z.bak)
+2023-12-02 14:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T07.56.42Z.bak).
+2023-12-02 14:58:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:02:06 - HandlerCollection`1: INFO: Broadcast: nop: oe
+2023-12-02 15:02:31 - HandlerCollection`1: INFO: Broadcast: nop: shimmer di samping kiri junggle
+2023-12-02 15:02:37 - HandlerCollection`1: INFO: Broadcast: nop: dah ku check di wiki
+2023-12-02 15:06:42 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:06:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:06:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.06.42Z.bak)
+2023-12-02 15:06:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.06.42Z.bak).
+2023-12-02 15:08:33 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-02 15:08:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:10:42 - Commands: INFO: flow executed: /playing.
+2023-12-02 15:11:04 - Commands: INFO: nop executed: /playing.
+2023-12-02 15:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:16:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:16:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.16.43Z.bak)
+2023-12-02 15:16:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.16.43Z.bak).
+2023-12-02 15:18:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.26.43Z.bak)
+2023-12-02 15:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.26.43Z.bak).
+2023-12-02 15:28:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:32:29 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-02 15:32:30 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (3/8)
+2023-12-02 15:32:30 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-02 15:32:39 - HandlerCollection`1: INFO: Broadcast: nop: ris
+2023-12-02 15:32:44 - HandlerCollection`1: INFO: Broadcast: Hori: napa pel
+2023-12-02 15:32:46 - HandlerCollection`1: INFO: Broadcast: nop: bantu cari shimmer
+2023-12-02 15:32:59 - HandlerCollection`1: INFO: Broadcast: Hori: mana kamu tak tele
+2023-12-02 15:32:59 - HandlerCollection`1: INFO: Broadcast: nop: junggle ke kiri underground
+2023-12-02 15:33:29 - HandlerCollection`1: INFO: Broadcast: nop: ciri ciri nya bawah atas itu batu semua, kosong
+2023-12-02 15:33:45 - HandlerCollection`1: INFO: Broadcast: nop: tapi bagian kiri dan kanan shimmer itu ada terowongan
+2023-12-02 15:34:43 - HandlerCollection`1: INFO: Broadcast: nop: harusnya di sekitar sini
+2023-12-02 15:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.36.43Z.bak)
+2023-12-02 15:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.36.43Z.bak).
+2023-12-02 15:38:24 - HandlerCollection`1: INFO: Broadcast: nop: disini batu batu doang
+2023-12-02 15:38:33 - HandlerCollection`1: INFO: Broadcast: nop: ya ini
+2023-12-02 15:38:44 - HandlerCollection`1: INFO: Broadcast: nop: kalok gk diatas atau dibawah
+2023-12-02 15:38:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:39:08 - HandlerCollection`1: INFO: Broadcast: nop: atas
+2023-12-02 15:39:14 - HandlerCollection`1: INFO: Broadcast: nop: sini
+2023-12-02 15:39:31 - HandlerCollection`1: INFO: Broadcast: nop: nyari jalan
+2023-12-02 15:40:16 - HandlerCollection`1: INFO: Broadcast: nop: cahaya mu bisa nembus tembok gk?\
+2023-12-02 15:40:43 - HandlerCollection`1: INFO: Broadcast: nop: tembakin ke atas
+2023-12-02 15:40:50 - HandlerCollection`1: INFO: Broadcast: nop: aku takut shimmer nya tumpah
+2023-12-02 15:41:11 - HandlerCollection`1: INFO: Broadcast: Hori: atas
+2023-12-02 15:43:46 - HandlerCollection`1: INFO: Broadcast: nop: nyingkir
+2023-12-02 15:44:42 - HandlerCollection`1: INFO: Broadcast: Hori: caranya gimana pel
+2023-12-02 15:44:48 - HandlerCollection`1: INFO: Broadcast: nop: dropin
+2023-12-02 15:44:52 - HandlerCollection`1: INFO: Broadcast: nop: item mu
+2023-12-02 15:46:09 - HandlerCollection`1: INFO: Broadcast: nop: drop item crafting
+2023-12-02 15:46:12 - HandlerCollection`1: INFO: Broadcast: nop: atau cari list
+2023-12-02 15:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:46:46 - HandlerCollection`1: INFO: Broadcast: Hori: oke udah pel
+2023-12-02 15:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.46.43Z.bak)
+2023-12-02 15:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.46.43Z.bak).
+2023-12-02 15:46:51 - HandlerCollection`1: INFO: Broadcast: nop: woe jangan asal buang
+2023-12-02 15:46:58 - HandlerCollection`1: INFO: Broadcast: Hori: bukan aku
+2023-12-02 15:47:02 - HandlerCollection`1: INFO: Broadcast: Hori: aku butuh ancient armor
+2023-12-02 15:47:03 - HandlerCollection`1: INFO: Broadcast: flow: gimana cara nya
+2023-12-02 15:47:03 - HandlerCollection`1: INFO: Broadcast: nop: itu item penting
+2023-12-02 15:47:46 - HandlerCollection`1: INFO: Broadcast: nop: bikin base
+2023-12-02 15:48:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:49:41 - HandlerCollection`1: INFO: Broadcast: flow: ikki pickaxe ku tak bunag yo
+2023-12-02 15:49:47 - HandlerCollection`1: INFO: Broadcast: flow: *buang
+2023-12-02 15:49:50 - HandlerCollection`1: INFO: Broadcast: nop: terserah
+2023-12-02 15:50:13 - HandlerCollection`1: INFO: Broadcast: Hori: woe balekno
+2023-12-02 15:50:16 - HandlerCollection`1: INFO: Broadcast: Hori: gae mana ku
+2023-12-02 15:50:31 - HandlerCollection`1: INFO: Broadcast: Hori: balekno mar bintang ku
+2023-12-02 15:50:54 - HandlerCollection`1: INFO: Broadcast: flow: bintang opo
+2023-12-02 15:51:02 - HandlerCollection`1: INFO: Broadcast: Hori: bintang ungu
+2023-12-02 15:51:50 - HandlerCollection`1: INFO: Broadcast: flow: iku ta?
+2023-12-02 15:52:27 - HandlerCollection`1: INFO: Broadcast: Hori: woe
+2023-12-02 15:52:32 - HandlerCollection`1: INFO: Broadcast: Hori: ojo di jupuk
+2023-12-02 15:52:50 - HandlerCollection`1: INFO: Broadcast: flow: jupuk opo?
+2023-12-02 15:52:55 - HandlerCollection`1: INFO: Broadcast: Hori: bintang
+2023-12-02 15:52:58 - HandlerCollection`1: INFO: Broadcast: Hori: putih
+2023-12-02 15:53:03 - HandlerCollection`1: INFO: Broadcast: flow: gak onok
+2023-12-02 15:53:07 - HandlerCollection`1: INFO: Broadcast: Hori: onok
+2023-12-02 15:53:11 - HandlerCollection`1: INFO: Broadcast: Hori: mbok jupuk mau
+2023-12-02 15:53:21 - HandlerCollection`1: INFO: Broadcast: flow: iku ta?
+2023-12-02 15:53:26 - HandlerCollection`1: INFO: Broadcast: Hori: iyo
+2023-12-02 15:54:35 - HandlerCollection`1: INFO: Broadcast: Hori: pel
+2023-12-02 15:54:45 - HandlerCollection`1: INFO: Broadcast: nop: ?
+2023-12-02 15:54:48 - HandlerCollection`1: INFO: Broadcast: Hori: arcane crystal
+2023-12-02 15:54:55 - HandlerCollection`1: INFO: Broadcast: nop: gk ambil aku
+2023-12-02 15:54:59 - HandlerCollection`1: INFO: Broadcast: Hori: kamu ambil
+2023-12-02 15:55:10 - HandlerCollection`1: INFO: Broadcast: nop: gk ada di inven
+2023-12-02 15:56:19 - HandlerCollection`1: INFO: Broadcast: flow: pedang abangku endi?
+2023-12-02 15:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 15:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 15:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T08.56.43Z.bak)
+2023-12-02 15:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T08.56.43Z.bak).
+2023-12-02 15:57:42 - HandlerCollection`1: INFO: Broadcast: flow: sopo seng jopok pedangku
+2023-12-02 15:58:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:02:22 - HandlerCollection`1: INFO: Broadcast: flow: aaa
+2023-12-02 16:04:16 - HandlerCollection`1: INFO: Broadcast: flow: balek no pedangku ris
+2023-12-02 16:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.06.43Z.bak)
+2023-12-02 16:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.06.43Z.bak).
+2023-12-02 16:08:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:08:56 - HandlerCollection`1: INFO: Broadcast: flow: endi pedangku ris
+2023-12-02 16:09:03 - HandlerCollection`1: INFO: Broadcast: Hori: pedang opo ?
+2023-12-02 16:09:14 - HandlerCollection`1: INFO: Broadcast: flow: pedang abangku
+2023-12-02 16:09:29 - HandlerCollection`1: INFO: Broadcast: Hori: gak ngowo aku
+2023-12-02 16:09:38 - HandlerCollection`1: INFO: Broadcast: flow: pel
+2023-12-02 16:09:45 - HandlerCollection`1: INFO: Broadcast: flow: peangku endi
+2023-12-02 16:12:09 - HandlerCollection`1: INFO: Broadcast: Hori: cara mbunuh npc gimana pel
+2023-12-02 16:12:19 - HandlerCollection`1: INFO: Broadcast: Hori: kalau ndak aku summon chutulu
+2023-12-02 16:13:17 - GetDataHandlers: INFO: Hori summoned the Eye of Cthulhu!
+2023-12-02 16:13:41 - GetDataHandlers: INFO: Hori summoned a Blood Moon!
+2023-12-02 16:14:25 - HandlerCollection`1: INFO: Broadcast: Hori: cara bunuh npc gimana pel
+2023-12-02 16:14:28 - HandlerCollection`1: INFO: Broadcast: nop: ada yang tau stopwatch ku mana?
+2023-12-02 16:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.16.43Z.bak)
+2023-12-02 16:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.16.43Z.bak).
+2023-12-02 16:16:55 - HandlerCollection`1: INFO: Broadcast: nop: ris
+2023-12-02 16:16:58 - HandlerCollection`1: INFO: Broadcast: Hori: napa pel
+2023-12-02 16:17:01 - HandlerCollection`1: INFO: Broadcast: nop: ada stopwatch gk?
+2023-12-02 16:17:07 - HandlerCollection`1: INFO: Broadcast: Hori: ndak
+2023-12-02 16:18:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:23:11 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-02 16:23:11 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-02 16:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.26.43Z.bak)
+2023-12-02 16:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.26.43Z.bak).
+2023-12-02 16:28:00 - HandlerCollection`1: INFO: Broadcast: Hori: shimeringnya kasih teleport lah pel
+2023-12-02 16:28:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:30:45 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 16:30:46 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (3/8)
+2023-12-02 16:30:46 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 16:33:18 - GetDataHandlers: INFO: flow summoned the King Slime!
+2023-12-02 16:35:30 - HandlerCollection`1: INFO: Broadcast: nop: jangan asal pindah npc lah
+2023-12-02 16:35:49 - HandlerCollection`1: INFO: Broadcast: Hori: siapa
+2023-12-02 16:35:58 - HandlerCollection`1: INFO: Broadcast: nop: gtw
+2023-12-02 16:36:04 - HandlerCollection`1: INFO: Broadcast: nop: ini npc pada berunah tempat\
+2023-12-02 16:36:13 - HandlerCollection`1: INFO: Broadcast: nop: bikin bahan makin mahal
+2023-12-02 16:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:36:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:36:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.36.43Z.bak)
+2023-12-02 16:36:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.36.43Z.bak).
+2023-12-02 16:38:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:42:01 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-02 16:42:01 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-02 16:44:18 - Commands: INFO: nop executed: /playing.
+2023-12-02 16:44:46 - GetDataHandlers: INFO: nop summoned a Blood Moon!
+2023-12-02 16:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.46.43Z.bak)
+2023-12-02 16:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.46.43Z.bak).
+2023-12-02 16:48:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:56:13 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-02 16:56:13 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-02 16:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 16:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 16:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T09.56.43Z.bak)
+2023-12-02 16:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T09.56.43Z.bak).
+2023-12-02 16:58:56 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.06.43Z.bak)
+2023-12-02 17:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.06.43Z.bak).
+2023-12-02 17:08:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:16:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:16:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.16.43Z.bak)
+2023-12-02 17:16:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.16.43Z.bak).
+2023-12-02 17:18:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.26.43Z.bak)
+2023-12-02 17:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.26.43Z.bak).
+2023-12-02 17:28:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:34:01 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-02 17:34:03 - HandlerCollection`1: INFO: nop (104.28.215.132) from 'default' group joined. (2/8)
+2023-12-02 17:34:03 - TShock: INFO: Broadcast: nop has joined.
+2023-12-02 17:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.36.43Z.bak)
+2023-12-02 17:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.36.43Z.bak).
+2023-12-02 17:38:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.46.43Z.bak)
+2023-12-02 17:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.46.43Z.bak).
+2023-12-02 17:48:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 17:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 17:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T10.56.43Z.bak)
+2023-12-02 17:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T10.56.43Z.bak).
+2023-12-02 17:58:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.06.43Z.bak)
+2023-12-02 18:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.06.43Z.bak).
+2023-12-02 18:08:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.16.43Z.bak)
+2023-12-02 18:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.16.43Z.bak).
+2023-12-02 18:18:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:26:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:26:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.26.43Z.bak)
+2023-12-02 18:26:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.26.43Z.bak).
+2023-12-02 18:28:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:34:12 - Commands: INFO: nop executed: /playing.
+2023-12-02 18:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.36.43Z.bak)
+2023-12-02 18:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.36.43Z.bak).
+2023-12-02 18:38:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:42:35 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-02 18:42:35 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (3/8)
+2023-12-02 18:42:35 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-02 18:43:22 - HandlerCollection`1: INFO: Broadcast: flow: bantu lawan cacing ris
+2023-12-02 18:43:27 - HandlerCollection`1: INFO: Broadcast: flow: pel
+2023-12-02 18:43:28 - HandlerCollection`1: INFO: Broadcast: Hori: cacing mana
+2023-12-02 18:43:41 - HandlerCollection`1: INFO: Broadcast: flow: corosion
+2023-12-02 18:44:13 - GetDataHandlers: INFO: flow summoned the Eater of Worlds!
+2023-12-02 18:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:46:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:46:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.46.43Z.bak)
+2023-12-02 18:46:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.46.43Z.bak).
+2023-12-02 18:48:33 - Commands: INFO: Hori executed: .playing.
+2023-12-02 18:48:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:49:59 - HandlerCollection`1: INFO: Broadcast: nop: ris
+2023-12-02 18:50:02 - HandlerCollection`1: INFO: Broadcast: nop: lindungi aku
+2023-12-02 18:51:39 - HandlerCollection`1: INFO: Broadcast: nop: nge bug
+2023-12-02 18:55:14 - HandlerCollection`1: INFO: Broadcast: nop: gass?
+2023-12-02 18:55:25 - HandlerCollection`1: INFO: Broadcast: Hori: aku mau tele pel
+2023-12-02 18:55:32 - HandlerCollection`1: INFO: Broadcast: nop: sini
+2023-12-02 18:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 18:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T11.56.43Z.bak)
+2023-12-02 18:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T11.56.43Z.bak).
+2023-12-02 18:57:21 - HandlerCollection`1: INFO: Broadcast: nop: tahan
+2023-12-02 18:58:16 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-02 18:58:20 - HandlerCollection`1: INFO: Broadcast: nop: bangunananya ganggu
+2023-12-02 18:58:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 18:59:00 - HandlerCollection`1: INFO: Broadcast: nop: is
+2023-12-02 18:59:02 - HandlerCollection`1: INFO: Broadcast: nop: ris
+2023-12-02 18:59:06 - HandlerCollection`1: INFO: Broadcast: nop: pake buff ini
+2023-12-02 18:59:08 - HandlerCollection`1: INFO: Broadcast: Hori: apa pel
+2023-12-02 19:04:32 - HandlerCollection`1: INFO: Broadcast: nop: kurang besar area nya
+2023-12-02 19:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.06.43Z.bak)
+2023-12-02 19:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.06.43Z.bak).
+2023-12-02 19:08:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:11:23 - HandlerCollection`1: INFO: Broadcast: nop: siap?
+2023-12-02 19:11:29 - HandlerCollection`1: INFO: Broadcast: Hori: ok
+2023-12-02 19:11:39 - HandlerCollection`1: INFO: Broadcast: nop: heal bntr
+2023-12-02 19:12:15 - HandlerCollection`1: INFO: Broadcast: Hori: ini lava dari mana
+2023-12-02 19:12:33 - HandlerCollection`1: INFO: Broadcast: Hori: palying
+2023-12-02 19:12:36 - Commands: INFO: Hori executed: .playing.
+2023-12-02 19:12:38 - HandlerCollection`1: INFO: Broadcast: Hori: mar bantu
+2023-12-02 19:13:03 - HandlerCollection`1: INFO: Broadcast: nop: lava muncul dari slime
+2023-12-02 19:14:22 - HandlerCollection`1: INFO: Broadcast: nop: boneka voodo habis
+2023-12-02 19:14:52 - HandlerCollection`1: INFO: Broadcast: nop: minum potion
+2023-12-02 19:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.16.43Z.bak)
+2023-12-02 19:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.16.43Z.bak).
+2023-12-02 19:16:48 - HandlerCollection`1: INFO: Broadcast: nop: nyari boneka
+2023-12-02 19:17:01 - HandlerCollection`1: INFO: Broadcast: nop: gass
+2023-12-02 19:17:39 - HandlerCollection`1: INFO: Broadcast: nop: soa[?
+2023-12-02 19:17:52 - HandlerCollection`1: INFO: Broadcast: Hori: bantu mar
+2023-12-02 19:18:16 - HandlerCollection`1: INFO: Broadcast: nop: kok gk muncul
+2023-12-02 19:18:31 - HandlerCollection`1: INFO: Broadcast: nop: boneka
+2023-12-02 19:18:57 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:19:00 - HandlerCollection`1: INFO: Broadcast: flow: oke
+2023-12-02 19:19:16 - HandlerCollection`1: INFO: Broadcast: flow: boneka voodo guide ta?
+2023-12-02 19:19:21 - HandlerCollection`1: INFO: Broadcast: nop: ya
+2023-12-02 19:19:29 - HandlerCollection`1: INFO: Broadcast: flow: wes entok aku
+2023-12-02 19:19:31 - HandlerCollection`1: INFO: Broadcast: flow: siji
+2023-12-02 19:19:52 - HandlerCollection`1: INFO: Broadcast: flow: butuh piro pel?
+2023-12-02 19:19:54 - HandlerCollection`1: INFO: Broadcast: nop: 1
+2023-12-02 19:19:59 - HandlerCollection`1: INFO: Broadcast: nop: cepet
+2023-12-02 19:20:13 - HandlerCollection`1: INFO: Broadcast: nop: epet
+2023-12-02 19:21:54 - HandlerCollection`1: INFO: Broadcast: nop: habis
+2023-12-02 19:21:57 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-02 19:22:11 - HandlerCollection`1: INFO: Broadcast: Hori: butuh arthur pel
+2023-12-02 19:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.26.43Z.bak)
+2023-12-02 19:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.26.43Z.bak).
+2023-12-02 19:28:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:34:19 - HandlerCollection`1: INFO: Broadcast: nop: nyari voodo
+2023-12-02 19:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:36:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:36:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.36.43Z.bak)
+2023-12-02 19:36:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.36.43Z.bak).
+2023-12-02 19:37:36 - HandlerCollection`1: INFO: Broadcast: nop: tahan
+2023-12-02 19:38:06 - HandlerCollection`1: INFO: Broadcast: nop: hadeh
+2023-12-02 19:38:11 - HandlerCollection`1: INFO: Broadcast: Hori: susah pel
+2023-12-02 19:38:14 - HandlerCollection`1: INFO: Broadcast: Hori: lasernya dua
+2023-12-02 19:38:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:39:42 - HandlerCollection`1: INFO: Broadcast: nop: arthur dah ku telepon
+2023-12-02 19:40:29 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-02 19:40:29 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (4/8)
+2023-12-02 19:40:29 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-02 19:40:34 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gass
+2023-12-02 19:40:40 - HandlerCollection`1: INFO: Broadcast: nop: info voodo
+2023-12-02 19:40:45 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku ada 2
+2023-12-02 19:41:00 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: arena aman?
+2023-12-02 19:41:05 - HandlerCollection`1: INFO: Broadcast: nop: aman
+2023-12-02 19:41:15 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kurang sih itu
+2023-12-02 19:41:26 - HandlerCollection`1: INFO: Broadcast: nop: sudah mau menang tadi
+2023-12-02 19:41:37 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: oke gas
+2023-12-02 19:41:50 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tak weh i potion anti lava
+2023-12-02 19:42:18 - HandlerCollection`1: INFO: Broadcast: nop: sini
+2023-12-02 19:44:51 - HandlerCollection`1: INFO: Broadcast: Hori: ayo
+2023-12-02 19:44:54 - HandlerCollection`1: INFO: Broadcast: Hori: 1437
+2023-12-02 19:45:03 - HandlerCollection`1: INFO: Broadcast: nop: woe asw
+2023-12-02 19:45:19 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: laggggg
+2023-12-02 19:45:23 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: adohhh
+2023-12-02 19:45:25 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: delay
+2023-12-02 19:45:27 - HandlerCollection`1: INFO: Broadcast: nop: wah anjg
+2023-12-02 19:45:41 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: bossnya delay cokk
+2023-12-02 19:45:53 - HandlerCollection`1: INFO: Broadcast: Hori: boss e aneh
+2023-12-02 19:46:03 - HandlerCollection`1: INFO: Broadcast: Hori: moro teleport ndek mburi ku
+2023-12-02 19:46:35 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku ndek hell muesti ngeleg
+2023-12-02 19:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:46:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:46:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.46.43Z.bak)
+2023-12-02 19:46:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.46.43Z.bak).
+2023-12-02 19:47:00 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: rene
+2023-12-02 19:48:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:49:36 - HandlerCollection`1: INFO: Broadcast: nop: sip
+2023-12-02 19:49:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aseeekkkk
+2023-12-02 19:49:58 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sini 
+2023-12-02 19:50:12 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lagg
+2023-12-02 19:50:18 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lag
+2023-12-02 19:50:44 - HandlerCollection`1: INFO: Broadcast: nop: otw shimmer
+2023-12-02 19:50:51 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mar
+2023-12-02 19:50:55 - HandlerCollection`1: INFO: Broadcast: flow: oii
+2023-12-02 19:51:04 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: hati gak sengaja kebawa di kamu
+2023-12-02 19:51:06 - HandlerCollection`1: INFO: Broadcast: nop: lah anjg
+2023-12-02 19:51:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: yang nambah slot
+2023-12-02 19:51:15 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 19:51:23 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-02 19:51:24 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kebuang tadi
+2023-12-02 19:51:35 - HandlerCollection`1: INFO: Broadcast: nop: rumah kita corrupt
+2023-12-02 19:51:37 - HandlerCollection`1: INFO: Broadcast: flow: minta posion tele
+2023-12-02 19:51:44 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mana mar
+2023-12-02 19:51:50 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: hati yang nambah slot
+2023-12-02 19:51:52 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: oke
+2023-12-02 19:52:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gak ndue aku mar
+2023-12-02 19:52:14 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku gae magic mirror
+2023-12-02 19:52:20 - HandlerCollection`1: INFO: Broadcast: flow: minta ikan pel
+2023-12-02 19:53:19 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sopo ndue melee emblem
+2023-12-02 19:53:31 - HandlerCollection`1: INFO: Broadcast: Hori: a[a an
+2023-12-02 19:53:48 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: shimmer mana
+2023-12-02 19:54:46 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: rumah kita gak corrupt pel
+2023-12-02 19:55:27 - HandlerCollection`1: INFO: Broadcast: nop: mangkanya itu tur
+2023-12-02 19:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:56:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 19:56:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T12.56.43Z.bak)
+2023-12-02 19:56:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T12.56.43Z.bak).
+2023-12-02 19:57:13 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 19:57:20 - HandlerCollection`1: INFO: Broadcast: nop: ini dah bisa dapet ecto belom?
+2023-12-02 19:57:37 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: habis plantera seingetku
+2023-12-02 19:58:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 19:59:57 - HandlerCollection`1: INFO: Broadcast: nop: bawah rumah jadi holow
+2023-12-02 20:00:29 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mage emblem neng chest
+2023-12-02 20:00:36 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: chest kebon
+2023-12-02 20:01:53 - HandlerCollection`1: INFO: Broadcast: flow: iki ris socare emblem
+2023-12-02 20:02:22 - HandlerCollection`1: INFO: Broadcast: Hori: oke suwun
+2023-12-02 20:05:29 - HandlerCollection`1: INFO: Broadcast: Hori: lah
+2023-12-02 20:05:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: nyapo kon
+2023-12-02 20:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:06:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:06:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.06.43Z.bak)
+2023-12-02 20:06:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.06.43Z.bak).
+2023-12-02 20:07:04 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-02 20:07:20 - HandlerCollection`1: INFO: Broadcast: nop: ris
+2023-12-02 20:07:27 - HandlerCollection`1: INFO: Broadcast: Hori: napa pel
+2023-12-02 20:08:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:09:32 - TSPlayer: INFO: Kicked flow for : 'You logged in from the same IP.'
+2023-12-02 20:09:32 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-02 20:09:32 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 20:09:33 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (4/8)
+2023-12-02 20:09:33 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 20:13:18 - HandlerCollection`1: INFO: Broadcast: Hori: saiki mech yo ?
+2023-12-02 20:13:27 - HandlerCollection`1: INFO: Broadcast: nop: durung
+2023-12-02 20:13:31 - HandlerCollection`1: INFO: Broadcast: nop: gk kuat
+2023-12-02 20:13:38 - HandlerCollection`1: INFO: Broadcast: Hori: sek hardcore ?
+2023-12-02 20:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.16.43Z.bak)
+2023-12-02 20:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.16.43Z.bak).
+2023-12-02 20:18:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:22:31 - HandlerCollection`1: INFO: Broadcast: Hori: blood mon yo ?
+2023-12-02 20:23:28 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: akakaka
+2023-12-02 20:24:10 - HandlerCollection`1: INFO: Broadcast: Hori: damage e mek siji
+2023-12-02 20:24:29 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-02 20:24:29 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-02 20:24:32 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-02 20:24:33 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (4/8)
+2023-12-02 20:24:33 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-02 20:26:22 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-02 20:26:22 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-02 20:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.26.43Z.bak)
+2023-12-02 20:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.26.43Z.bak).
+2023-12-02 20:28:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:29:38 - Commands: INFO: Hori executed: .playing.
+2023-12-02 20:29:45 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-02 20:29:45 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-02 20:35:43 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-02 20:35:43 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-02 20:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.36.43Z.bak)
+2023-12-02 20:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.36.43Z.bak).
+2023-12-02 20:38:28 - HandlerCollection`1: INFO: Broadcast: nop: sekarang dah bisa bikin wing
+2023-12-02 20:38:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.46.43Z.bak)
+2023-12-02 20:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.46.43Z.bak).
+2023-12-02 20:48:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:54:42 - Commands: INFO: nop executed: /playing.
+2023-12-02 20:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 20:56:45 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 20:56:45 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T13.56.43Z.bak)
+2023-12-02 20:56:45 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T13.56.43Z.bak).
+2023-12-02 20:58:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.06.43Z.bak)
+2023-12-02 21:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.06.43Z.bak).
+2023-12-02 21:08:40 - HandlerCollection`1: INFO: Broadcast: nop: hi
+2023-12-02 21:08:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:09:22 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-02 21:09:22 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (2/8)
+2023-12-02 21:09:22 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-02 21:13:09 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-02 21:13:09 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-02 21:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.16.43Z.bak)
+2023-12-02 21:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.16.43Z.bak).
+2023-12-02 21:18:40 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 21:18:51 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-02 21:18:51 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 21:18:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.26.43Z.bak)
+2023-12-02 21:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.26.43Z.bak).
+2023-12-02 21:27:28 - HandlerCollection`1: INFO: Broadcast: flow: pel
+2023-12-02 21:27:34 - HandlerCollection`1: INFO: Broadcast: flow: ada anglet gak?
+2023-12-02 21:27:39 - HandlerCollection`1: INFO: Broadcast: nop: gk ada
+2023-12-02 21:28:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:36:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:36:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.36.43Z.bak)
+2023-12-02 21:36:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.36.43Z.bak).
+2023-12-02 21:38:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:40:26 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-02 21:40:26 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-02 21:43:25 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-02 21:43:28 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-02 21:43:28 - TShock: INFO: Broadcast: flow has joined.
+2023-12-02 21:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:46:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:46:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.46.43Z.bak)
+2023-12-02 21:46:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.46.43Z.bak).
+2023-12-02 21:48:58 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:55:31 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-02 21:55:31 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-02 21:55:35 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-02 21:55:37 - HandlerCollection`1: INFO: nop (104.28.215.133) from 'default' group joined. (2/8)
+2023-12-02 21:55:37 - TShock: INFO: Broadcast: nop has joined.
+2023-12-02 21:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 21:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 21:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T14.56.43Z.bak)
+2023-12-02 21:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T14.56.43Z.bak).
+2023-12-02 21:58:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.06.43Z.bak)
+2023-12-02 22:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.06.43Z.bak).
+2023-12-02 22:08:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:13:48 - HandlerCollection`1: INFO: Broadcast: flow: pel tempat farming spirder fang dimana?
+2023-12-02 22:13:58 - HandlerCollection`1: INFO: Broadcast: nop: bawah tanah
+2023-12-02 22:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:16:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:16:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.16.43Z.bak)
+2023-12-02 22:16:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.16.43Z.bak).
+2023-12-02 22:18:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:26:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:26:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.26.43Z.bak)
+2023-12-02 22:26:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.26.43Z.bak).
+2023-12-02 22:28:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.36.43Z.bak)
+2023-12-02 22:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.36.43Z.bak).
+2023-12-02 22:38:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:44:35 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-02 22:44:35 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-02 22:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.46.43Z.bak)
+2023-12-02 22:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.46.43Z.bak).
+2023-12-02 22:48:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 22:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 22:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T15.56.43Z.bak)
+2023-12-02 22:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T15.56.43Z.bak).
+2023-12-02 22:58:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:06:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:06:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.06.43Z.bak)
+2023-12-02 23:06:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.06.43Z.bak).
+2023-12-02 23:08:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.16.43Z.bak)
+2023-12-02 23:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.16.43Z.bak).
+2023-12-02 23:18:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.26.43Z.bak)
+2023-12-02 23:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.26.43Z.bak).
+2023-12-02 23:28:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:36:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:36:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.36.43Z.bak)
+2023-12-02 23:36:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.36.43Z.bak).
+2023-12-02 23:38:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.46.43Z.bak)
+2023-12-02 23:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.46.43Z.bak).
+2023-12-02 23:48:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-02 23:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-02 23:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T16.56.43Z.bak)
+2023-12-02 23:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T16.56.43Z.bak).
+2023-12-02 23:58:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:01:10 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-03 00:01:11 - HandlerCollection`1: INFO: nop (104.28.215.133) from 'default' group joined. (2/8)
+2023-12-03 00:01:11 - TShock: INFO: Broadcast: nop has joined.
+2023-12-03 00:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:06:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:06:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.06.43Z.bak)
+2023-12-03 00:06:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.06.43Z.bak).
+2023-12-03 00:08:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:15:22 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 00:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.16.43Z.bak)
+2023-12-03 00:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.16.43Z.bak).
+2023-12-03 00:18:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:26:25 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-03 00:26:25 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 00:26:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:26:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:26:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.26.43Z.bak)
+2023-12-03 00:26:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.26.43Z.bak).
+2023-12-03 00:29:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:36:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:36:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:36:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.36.43Z.bak)
+2023-12-03 00:36:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.36.43Z.bak).
+2023-12-03 00:39:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:42:48 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 00:46:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:46:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:46:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.46.43Z.bak)
+2023-12-03 00:46:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.46.43Z.bak).
+2023-12-03 00:48:25 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 00:49:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:56:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 00:56:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 00:56:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T17.56.43Z.bak)
+2023-12-03 00:56:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T17.56.43Z.bak).
+2023-12-03 00:57:55 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 00:59:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:04:03 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:06:39 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:06:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:06:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 01:06:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T18.06.43Z.bak)
+2023-12-03 01:06:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T18.06.43Z.bak).
+2023-12-03 01:09:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:09:46 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:15:47 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:16:43 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:16:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 01:16:46 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-02T18.16.43Z.bak)
+2023-12-03 01:16:46 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-02T18.16.43Z.bak).
+2023-12-03 01:17:34 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:19:00 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:23:50 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 01:24:59 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-03 01:24:59 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-03 01:24:59 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 01:25:01 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 01:25:01 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 07:54:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 07:54:45 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 07:54:46 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (1/8)
+2023-12-03 07:54:46 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 07:54:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 07:54:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T00.54.44Z.bak)
+2023-12-03 07:54:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T00.54.44Z.bak).
+2023-12-03 07:58:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:01:44 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 08:01:44 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 08:01:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:01:46 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:01:46 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 08:01:49 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 08:01:49 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (1/8)
+2023-12-03 08:01:49 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 08:04:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:04:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:04:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.04.44Z.bak)
+2023-12-03 08:04:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.04.44Z.bak).
+2023-12-03 08:07:47 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 08:07:47 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 08:07:47 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:07:49 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:07:49 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 08:08:35 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 08:08:36 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (1/8)
+2023-12-03 08:08:36 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 08:09:35 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:13:49 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 08:13:49 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 08:13:49 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:13:51 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:13:51 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 08:13:54 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 08:13:55 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (1/8)
+2023-12-03 08:13:55 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 08:14:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:14:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:14:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.14.44Z.bak)
+2023-12-03 08:14:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.14.44Z.bak).
+2023-12-03 08:19:39 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:24:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:24:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:24:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.24.44Z.bak)
+2023-12-03 08:24:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.24.44Z.bak).
+2023-12-03 08:25:54 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 08:25:54 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 08:25:54 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:25:56 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:25:56 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 08:26:00 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 08:26:00 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (1/8)
+2023-12-03 08:26:00 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 08:28:26 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-03 08:28:28 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-03 08:28:28 - TShock: INFO: Broadcast: flow has joined.
+2023-12-03 08:29:38 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 08:29:38 - TShock: INFO: Kicked NgawiMusical for : 'You logged in from the same IP.'
+2023-12-03 08:29:40 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 08:29:41 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (2/8)
+2023-12-03 08:29:41 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 08:29:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:34:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:34:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:34:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.34.44Z.bak)
+2023-12-03 08:34:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.34.44Z.bak).
+2023-12-03 08:39:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:44:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:44:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:44:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.44.44Z.bak)
+2023-12-03 08:44:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.44.44Z.bak).
+2023-12-03 08:49:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:54:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 08:54:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 08:54:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T01.54.44Z.bak)
+2023-12-03 08:54:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T01.54.44Z.bak).
+2023-12-03 08:59:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:04:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:04:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:04:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.04.44Z.bak)
+2023-12-03 09:04:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.04.44Z.bak).
+2023-12-03 09:09:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:14:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:14:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:14:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.14.44Z.bak)
+2023-12-03 09:14:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.14.44Z.bak).
+2023-12-03 09:19:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:24:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:24:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:24:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.24.44Z.bak)
+2023-12-03 09:24:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.24.44Z.bak).
+2023-12-03 09:26:38 - HandlerCollection`1: INFO: Broadcast: flow: ada anglet gak tur?
+2023-12-03 09:26:45 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gaonok mar
+2023-12-03 09:26:54 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wes tak gae sepatu
+2023-12-03 09:29:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:34:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:34:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:34:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.34.44Z.bak)
+2023-12-03 09:34:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.34.44Z.bak).
+2023-12-03 09:39:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:42:05 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mar
+2023-12-03 09:42:12 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kamu bawa magic knife gak?
+2023-12-03 09:42:17 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: seng warna kuning
+2023-12-03 09:42:25 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: dari chest
+2023-12-03 09:42:31 - HandlerCollection`1: INFO: Broadcast: flow: gak
+2023-12-03 09:42:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: oke
+2023-12-03 09:44:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:44:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:44:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.44.44Z.bak)
+2023-12-03 09:44:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.44.44Z.bak).
+2023-12-03 09:48:14 - HandlerCollection`1: INFO: Broadcast: flow: iki lo tur ono dager kuning
+2023-12-03 09:48:18 - HandlerCollection`1: INFO: Broadcast: flow: nang chest
+2023-12-03 09:48:28 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wes mar aku onok maneh
+2023-12-03 09:48:34 - HandlerCollection`1: INFO: Broadcast: flow: oke
+2023-12-03 09:48:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: iku gae faris soale dmg e magic
+2023-12-03 09:49:05 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 09:49:05 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 09:49:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:54:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 09:54:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 09:54:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T02.54.44Z.bak)
+2023-12-03 09:54:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T02.54.44Z.bak).
+2023-12-03 09:59:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:04:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:04:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 10:04:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T03.04.44Z.bak)
+2023-12-03 10:04:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T03.04.44Z.bak).
+2023-12-03 10:09:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:14:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:14:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 10:14:48 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T03.14.44Z.bak)
+2023-12-03 10:14:48 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T03.14.44Z.bak).
+2023-12-03 10:19:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:24:44 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:24:47 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 10:24:47 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T03.24.44Z.bak)
+2023-12-03 10:24:47 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T03.24.44Z.bak).
+2023-12-03 10:29:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:33:10 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-03 10:33:10 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 10:33:10 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 10:33:11 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 10:33:11 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 11:30:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:30:17 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-03 11:30:19 - HandlerCollection`1: INFO: nop (112.215.173.253) from 'default' group joined. (1/8)
+2023-12-03 11:30:19 - TShock: INFO: Broadcast: nop has joined.
+2023-12-03 11:30:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 11:30:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T04.30.17Z.bak)
+2023-12-03 11:30:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T04.30.17Z.bak).
+2023-12-03 11:36:52 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:40:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:40:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 11:40:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T04.40.17Z.bak)
+2023-12-03 11:40:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T04.40.17Z.bak).
+2023-12-03 11:42:43 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 11:42:43 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (2/8)
+2023-12-03 11:42:43 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 11:43:08 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: udah nemu gelatin kah pel??
+2023-12-03 11:43:12 - HandlerCollection`1: INFO: Broadcast: nop: sudah
+2023-12-03 11:43:33 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: anjay pigmi
+2023-12-03 11:43:49 - HandlerCollection`1: INFO: Broadcast: nop: bikin kasur
+2023-12-03 11:44:53 - HandlerCollection`1: INFO: Broadcast: nop: bahan bikin kasur apa ya?
+2023-12-03 11:45:02 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: cloth sama wood tok
+2023-12-03 11:45:11 - HandlerCollection`1: INFO: Broadcast: nop: gk bisa
+2023-12-03 11:45:20 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: ndek sawmill
+2023-12-03 11:45:24 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: turuno dikit
+2023-12-03 11:46:29 - HandlerCollection`1: INFO: Broadcast: nop: ayo
+2023-12-03 11:46:52 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:47:28 - HandlerCollection`1: INFO: Broadcast: nop: sini tur
+2023-12-03 11:47:36 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tim merah
+2023-12-03 11:47:56 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 11:48:19 - HandlerCollection`1: INFO: Broadcast: nop: pake yang area
+2023-12-03 11:50:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:50:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 11:50:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T04.50.17Z.bak)
+2023-12-03 11:50:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T04.50.17Z.bak).
+2023-12-03 11:51:00 - HandlerCollection`1: INFO: Broadcast: nop: tahan
+2023-12-03 11:52:58 - HandlerCollection`1: INFO: Broadcast: nop: asem
+2023-12-03 11:53:03 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sakit bat wkwkwkaka
+2023-12-03 11:53:09 - HandlerCollection`1: INFO: Broadcast: nop: minion nya rese
+2023-12-03 11:54:22 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 11:54:22 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 11:54:22 - HandlerCollection`1: INFO: Broadcast: nop: dapet item summon gk?
+2023-12-03 11:55:36 - HandlerCollection`1: INFO: Broadcast: nop: ya tur?
+2023-12-03 11:56:52 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:58:08 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-03 11:58:08 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-03 11:58:08 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 11:58:10 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 11:58:10 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 11:59:45 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-03 11:59:47 - HandlerCollection`1: INFO: nop (112.215.173.253) from 'default' group joined. (1/8)
+2023-12-03 11:59:47 - TShock: INFO: Broadcast: nop has joined.
+2023-12-03 12:00:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:00:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:00:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.00.17Z.bak)
+2023-12-03 12:00:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.00.17Z.bak).
+2023-12-03 12:02:35 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 12:05:09 - GetDataHandlers: INFO: nop summoned the Queen Slime!
+2023-12-03 12:08:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:10:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:10:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:10:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.10.17Z.bak)
+2023-12-03 12:10:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.10.17Z.bak).
+2023-12-03 12:18:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:20:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:20:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:20:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.20.17Z.bak)
+2023-12-03 12:20:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.20.17Z.bak).
+2023-12-03 12:28:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:29:40 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 12:29:40 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (2/8)
+2023-12-03 12:29:40 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 12:30:00 - HandlerCollection`1: INFO: Broadcast: nop: bikin wing tur
+2023-12-03 12:30:11 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tak ke langit 
+2023-12-03 12:30:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:30:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:30:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.30.17Z.bak)
+2023-12-03 12:30:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.30.17Z.bak).
+2023-12-03 12:30:57 - HandlerCollection`1: INFO: Broadcast: nop: cara dapet biome key gmn ya?
+2023-12-03 12:31:14 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kurang tau
+2023-12-03 12:33:49 - HandlerCollection`1: INFO: Broadcast: nop: red team
+2023-12-03 12:34:25 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gada naga 
+2023-12-03 12:34:36 - HandlerCollection`1: INFO: Broadcast: nop: aku dah ada soul of flight
+2023-12-03 12:34:39 - HandlerCollection`1: INFO: Broadcast: nop: gpp
+2023-12-03 12:34:43 - HandlerCollection`1: INFO: Broadcast: nop: ada sisah 30
+2023-12-03 12:34:46 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: banyak ta??
+2023-12-03 12:35:02 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: minta pel
+2023-12-03 12:35:11 - HandlerCollection`1: INFO: Broadcast: nop: tapi butuh feather
+2023-12-03 12:35:21 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: knapa gak pixie?
+2023-12-03 12:35:34 - HandlerCollection`1: INFO: Broadcast: nop: gpp
+2023-12-03 12:36:25 - HandlerCollection`1: INFO: Broadcast: nop: dikit lagi dapet pancing mas
+2023-12-03 12:36:35 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: dari angler
+2023-12-03 12:36:41 - HandlerCollection`1: INFO: Broadcast: nop: ya
+2023-12-03 12:36:49 - HandlerCollection`1: INFO: Broadcast: nop: dah quest ke 26 aku
+2023-12-03 12:37:02 - HandlerCollection`1: INFO: Broadcast: nop: dah dapet bottomless water bucket
+2023-12-03 12:38:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:39:33 - HandlerCollection`1: INFO: Broadcast: nop: tadi malem amar main terus njer
+2023-12-03 12:39:35 - HandlerCollection`1: INFO: Broadcast: nop: awkoakw
+2023-12-03 12:39:55 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: hooh udah dapet outfit laba laba
+2023-12-03 12:40:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:40:20 - HandlerCollection`1: INFO: Broadcast: nop: sampai jam 1 malem njer
+2023-12-03 12:40:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:40:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.40.17Z.bak)
+2023-12-03 12:40:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.40.17Z.bak).
+2023-12-03 12:40:32 - HandlerCollection`1: INFO: Broadcast: nop: aku tinggal nge push quest angler
+2023-12-03 12:41:32 - HandlerCollection`1: INFO: Broadcast: nop: ini kayaknya aku mau otw bikin ankh shield
+2023-12-03 12:41:44 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku ada megaphone
+2023-12-03 12:41:55 - HandlerCollection`1: INFO: Broadcast: nop: mana
+2023-12-03 12:41:57 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: butuh ga
+2023-12-03 12:42:05 - HandlerCollection`1: INFO: Broadcast: nop: sip
+2023-12-03 12:42:18 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: clock butuh?
+2023-12-03 12:42:22 - HandlerCollection`1: INFO: Broadcast: nop: dah ada
+2023-12-03 12:42:24 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: oke
+2023-12-03 12:44:48 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: loh
+2023-12-03 12:44:51 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: watdehelll
+2023-12-03 12:46:29 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-03 12:46:39 - HandlerCollection`1: INFO: Broadcast: nop: tahan
+2023-12-03 12:47:32 - HandlerCollection`1: INFO: Broadcast: nop: siapa yang summon sih
+2023-12-03 12:47:34 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kok tiba2 muncul?
+2023-12-03 12:47:43 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku masih browsing wiki 
+2023-12-03 12:48:01 - HandlerCollection`1: INFO: Broadcast: nop: gtw aku
+2023-12-03 12:48:07 - HandlerCollection`1: INFO: Broadcast: nop: aku lagi check tas
+2023-12-03 12:48:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:50:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 12:50:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 12:50:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T05.50.17Z.bak)
+2023-12-03 12:50:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T05.50.17Z.bak).
+2023-12-03 12:53:43 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-03 12:54:12 - HandlerCollection`1: INFO: Broadcast: nop: guide mana?
+2023-12-03 12:54:17 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mokat
+2023-12-03 12:54:29 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: disini
+2023-12-03 12:56:09 - HandlerCollection`1: INFO: Broadcast: nop: celestial stone itu dapet kapan?
+2023-12-03 12:57:38 - HandlerCollection`1: INFO: Broadcast: nop: dikit lagi pancing mas
+2023-12-03 12:57:40 - HandlerCollection`1: INFO: Broadcast: nop: :>>>
+2023-12-03 12:58:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:00:05 - HandlerCollection`1: INFO: Broadcast: nop: dah siap boss
+2023-12-03 13:00:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:00:18 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: udah sih 
+2023-12-03 13:00:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:00:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.00.17Z.bak)
+2023-12-03 13:00:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.00.17Z.bak).
+2023-12-03 13:00:21 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sek
+2023-12-03 13:02:00 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-03 13:02:23 - HandlerCollection`1: INFO: Broadcast: nop: ternyata aku ada ice key
+2023-12-03 13:02:26 - HandlerCollection`1: INFO: Broadcast: nop: baru tau XD
+2023-12-03 13:02:40 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: buat apa ?
+2023-12-03 13:02:49 - HandlerCollection`1: INFO: Broadcast: nop: buat biome chest
+2023-12-03 13:04:10 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: the twin dulu pel
+2023-12-03 13:04:15 - HandlerCollection`1: INFO: Broadcast: nop: bntr
+2023-12-03 13:04:25 - HandlerCollection`1: INFO: Broadcast: nop: nyari chest biru dulu aku
+2023-12-03 13:04:47 - HandlerCollection`1: INFO: Broadcast: nop: dibawah rumah aku bikin toch god
+2023-12-03 13:04:50 - HandlerCollection`1: INFO: Broadcast: nop: torch
+2023-12-03 13:05:58 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: info lens
+2023-12-03 13:06:17 - HandlerCollection`1: INFO: Broadcast: nop: gk ada
+2023-12-03 13:08:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:09:07 - HandlerCollection`1: INFO: Broadcast: nop: ayo tur
+2023-12-03 13:09:30 - HandlerCollection`1: INFO: Broadcast: nop: eh bentar
+2023-12-03 13:10:00 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lensnya mana semua
+2023-12-03 13:10:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:10:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:10:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.10.17Z.bak)
+2023-12-03 13:10:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.10.17Z.bak).
+2023-12-03 13:10:24 - HandlerCollection`1: INFO: Broadcast: nop: kayaknya ada yang ngambil
+2023-12-03 13:11:33 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lensnya satupun gaada
+2023-12-03 13:12:25 - HandlerCollection`1: INFO: Broadcast: nop: hari normal bersama maling
+2023-12-03 13:12:29 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: kok cuma 5 di chest
+2023-12-03 13:12:35 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: cukup tapi
+2023-12-03 13:12:46 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: 3 dari aku barusan
+2023-12-03 13:12:48 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wwkwkw
+2023-12-03 13:13:15 - HandlerCollection`1: INFO: Broadcast: nop: ayo start
+2023-12-03 13:13:27 - GetDataHandlers: INFO: NgawiMusical summoned the Retinazer!
+2023-12-03 13:13:27 - GetDataHandlers: INFO: NgawiMusical summoned the Spazmatism!
+2023-12-03 13:16:16 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aduuhhhh
+2023-12-03 13:16:26 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-03 13:16:27 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: telat pel
+2023-12-03 13:16:28 - HandlerCollection`1: INFO: Broadcast: nop: awkaokwoa
+2023-12-03 13:16:40 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: harusnya tadi nunggu agak sorean\
+2023-12-03 13:17:16 - HandlerCollection`1: INFO: Broadcast: nop: lah anjg
+2023-12-03 13:17:21 - HandlerCollection`1: INFO: Broadcast: nop: ngapain angler disini
+2023-12-03 13:17:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: pindahan dia kayak e
+2023-12-03 13:17:37 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: tadi pas skeletron
+2023-12-03 13:18:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:20:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:20:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:20:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.20.17Z.bak)
+2023-12-03 13:20:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.20.17Z.bak).
+2023-12-03 13:27:50 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-03 13:27:58 - HandlerCollection`1: INFO: Broadcast: nop: ice pylon siapa yang jual?
+2023-12-03 13:28:05 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gak tau pel
+2023-12-03 13:28:12 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: harus di ice biome
+2023-12-03 13:28:26 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: bebas siapapun yang bisa jualan item
+2023-12-03 13:28:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:30:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:30:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:30:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.30.17Z.bak)
+2023-12-03 13:30:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.30.17Z.bak).
+2023-12-03 13:30:27 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: dah malem??
+2023-12-03 13:31:50 - HandlerCollection`1: INFO: Broadcast: nop: sekarang
+2023-12-03 13:31:52 - HandlerCollection`1: INFO: Broadcast: nop: ?
+2023-12-03 13:31:58 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gas
+2023-12-03 13:32:19 - GetDataHandlers: INFO: NgawiMusical summoned the Retinazer!
+2023-12-03 13:32:19 - GetDataHandlers: INFO: NgawiMusical summoned the Spazmatism!
+2023-12-03 13:35:27 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lagg
+2023-12-03 13:35:44 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lagi
+2023-12-03 13:35:50 - HandlerCollection`1: INFO: Broadcast: nop: jangan dulu
+2023-12-03 13:35:56 - HandlerCollection`1: INFO: Broadcast: nop: dah jam 12
+2023-12-03 13:36:51 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 13:36:51 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 13:38:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:40:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:40:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:40:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.40.17Z.bak)
+2023-12-03 13:40:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.40.17Z.bak).
+2023-12-03 13:48:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:50:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:50:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 13:50:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T06.50.17Z.bak)
+2023-12-03 13:50:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T06.50.17Z.bak).
+2023-12-03 13:51:04 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-12-03 13:51:05 - HandlerCollection`1: INFO: NgawiMusical (114.79.23.11) from 'default' group joined. (2/8)
+2023-12-03 13:51:05 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-12-03 13:51:26 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-03 13:51:33 - HandlerCollection`1: INFO: Broadcast: nop: doctor dmn?
+2023-12-03 13:51:43 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: di hollow
+2023-12-03 13:51:54 - HandlerCollection`1: INFO: Broadcast: nop: apaan ini anjg
+2023-12-03 13:52:09 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: lah
+2023-12-03 13:52:44 - HandlerCollection`1: INFO: Broadcast: nop: pake
+2023-12-03 13:52:53 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: woke 
+2023-12-03 13:52:55 - HandlerCollection`1: INFO: Broadcast: nop: sini
+2023-12-03 13:53:20 - HandlerCollection`1: INFO: Broadcast: nop: sini tur cepet
+2023-12-03 13:53:29 - HandlerCollection`1: INFO: Broadcast: nop: set spawn
+2023-12-03 13:53:36 - HandlerCollection`1: INFO: Broadcast: nop: biar bisa pulang
+2023-12-03 13:53:38 - HandlerCollection`1: INFO: Broadcast: nop: heal
+2023-12-03 13:53:45 - HandlerCollection`1: INFO: Broadcast: nop: siap?
+2023-12-03 13:54:18 - HandlerCollection`1: INFO: Broadcast: nop: ayo tur
+2023-12-03 13:54:31 - GetDataHandlers: INFO: NgawiMusical summoned the Retinazer!
+2023-12-03 13:54:31 - GetDataHandlers: INFO: NgawiMusical summoned the Spazmatism!
+2023-12-03 13:58:13 - HandlerCollection`1: INFO: Broadcast: nop: ang
+2023-12-03 13:58:16 - HandlerCollection`1: INFO: Broadcast: nop: anjg
+2023-12-03 13:58:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 13:58:37 - HandlerCollection`1: INFO: Broadcast: nop: bikin senjata dulu
+2023-12-03 13:58:47 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: durendal
+2023-12-03 13:59:57 - HandlerCollection`1: INFO: Broadcast: nop: bagi hollowed bar bang
+2023-12-03 14:00:09 - HandlerCollection`1: INFO: Broadcast: nop: eh
+2023-12-03 14:00:11 - HandlerCollection`1: INFO: Broadcast: nop: bagi sign
+2023-12-03 14:00:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:00:19 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: apa ?
+2023-12-03 14:00:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:00:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.00.17Z.bak)
+2023-12-03 14:00:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.00.17Z.bak).
+2023-12-03 14:00:25 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: soul of sight ??
+2023-12-03 14:00:25 - HandlerCollection`1: INFO: Broadcast: nop: bagi soul
+2023-12-03 14:00:27 - HandlerCollection`1: INFO: Broadcast: nop: ya
+2023-12-03 14:00:30 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: brapa
+2023-12-03 14:00:38 - HandlerCollection`1: INFO: Broadcast: nop: 10
+2023-12-03 14:01:47 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wanjeng
+2023-12-03 14:03:48 - HandlerCollection`1: INFO: Broadcast: nop: tur
+2023-12-03 14:03:58 - HandlerCollection`1: INFO: Broadcast: nop: pintu
+2023-12-03 14:06:26 - HandlerCollection`1: INFO: Broadcast: nop: tutup pintu astaga
+2023-12-03 14:08:30 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:10:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:10:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:10:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.10.17Z.bak)
+2023-12-03 14:10:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.10.17Z.bak).
+2023-12-03 14:10:30 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: off sek pel
+2023-12-03 14:10:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-12-03 14:10:32 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-12-03 14:10:33 - HandlerCollection`1: INFO: Broadcast: nop: ok
+2023-12-03 14:18:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:20:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:20:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:20:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.20.17Z.bak)
+2023-12-03 14:20:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.20.17Z.bak).
+2023-12-03 14:28:14 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-03 14:28:15 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (2/8)
+2023-12-03 14:28:15 - TShock: INFO: Broadcast: flow has joined.
+2023-12-03 14:28:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:30:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:30:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:30:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.30.17Z.bak)
+2023-12-03 14:30:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.30.17Z.bak).
+2023-12-03 14:36:04 - HandlerCollection`1: INFO: Broadcast: nop: lah
+2023-12-03 14:36:14 - HandlerCollection`1: INFO: Broadcast: flow: napa lawan bos pel
+2023-12-03 14:36:19 - HandlerCollection`1: INFO: Broadcast: nop: gtw
+2023-12-03 14:36:23 - HandlerCollection`1: INFO: Broadcast: nop: summon sendiri
+2023-12-03 14:36:44 - HandlerCollection`1: INFO: Broadcast: nop: pergi mar
+2023-12-03 14:36:58 - HandlerCollection`1: INFO: Broadcast: flow: asw
+2023-12-03 14:37:55 - HandlerCollection`1: INFO: Broadcast: flow: farming soul of night dimana pel?
+2023-12-03 14:38:05 - HandlerCollection`1: INFO: Broadcast: nop: corrupt
+2023-12-03 14:38:14 - HandlerCollection`1: INFO: Broadcast: flow: oke
+2023-12-03 14:38:23 - HandlerCollection`1: INFO: Broadcast: flow: kalow hollow orw?
+2023-12-03 14:38:28 - HandlerCollection`1: INFO: Broadcast: flow: *ore
+2023-12-03 14:38:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:40:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:40:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:40:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.40.17Z.bak)
+2023-12-03 14:40:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.40.17Z.bak).
+2023-12-03 14:48:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:50:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:50:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 14:50:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T07.50.17Z.bak)
+2023-12-03 14:50:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T07.50.17Z.bak).
+2023-12-03 14:53:15 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-12-03 14:53:15 - HandlerCollection`1: INFO: Hori (180.247.73.17) from 'default' group joined. (3/8)
+2023-12-03 14:53:15 - TShock: INFO: Broadcast: Hori has joined.
+2023-12-03 14:55:26 - HandlerCollection`1: INFO: Broadcast: nop: aku pingin baju anjg
+2023-12-03 14:58:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 14:59:05 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 14:59:44 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 15:00:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:00:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:00:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.00.17Z.bak)
+2023-12-03 15:00:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.00.17Z.bak).
+2023-12-03 15:00:54 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 15:01:55 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 15:02:39 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 15:04:59 - HandlerCollection`1: INFO: Broadcast: nop: awkowkoa
+2023-12-03 15:07:12 - HandlerCollection`1: INFO: Broadcast: nop: awkaokwoa
+2023-12-03 15:07:17 - GetDataHandlers: INFO: nop summoned the Eye of Cthulhu!
+2023-12-03 15:08:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:10:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:10:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:10:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.10.17Z.bak)
+2023-12-03 15:10:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.10.17Z.bak).
+2023-12-03 15:10:51 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-03 15:10:51 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-03 15:12:22 - Commands: INFO: Hori executed: .playing.
+2023-12-03 15:17:12 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-12-03 15:17:12 - HandlerCollection`1: INFO: Hori disconnected.
+2023-12-03 15:18:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:20:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:20:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:20:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.20.17Z.bak)
+2023-12-03 15:20:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.20.17Z.bak).
+2023-12-03 15:28:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:30:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:30:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:30:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.30.17Z.bak)
+2023-12-03 15:30:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.30.17Z.bak).
+2023-12-03 15:38:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:40:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:40:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:40:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.40.17Z.bak)
+2023-12-03 15:40:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.40.17Z.bak).
+2023-12-03 15:48:12 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-03 15:48:13 - HandlerCollection`1: INFO: nop (112.215.173.253) from 'default' group joined. (2/8)
+2023-12-03 15:48:13 - TShock: INFO: Broadcast: nop has joined.
+2023-12-03 15:48:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:50:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 15:50:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 15:50:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T08.50.17Z.bak)
+2023-12-03 15:50:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T08.50.17Z.bak).
+2023-12-03 15:58:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:00:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:00:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:00:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.00.17Z.bak)
+2023-12-03 16:00:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.00.17Z.bak).
+2023-12-03 16:02:31 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-03 16:02:31 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-03 16:08:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:10:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:10:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:10:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.10.17Z.bak)
+2023-12-03 16:10:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.10.17Z.bak).
+2023-12-03 16:18:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:20:17 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:20:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:20:20 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.20.17Z.bak)
+2023-12-03 16:20:20 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.20.17Z.bak).
+2023-12-03 16:28:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:30:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:30:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:30:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.30.18Z.bak)
+2023-12-03 16:30:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.30.18Z.bak).
+2023-12-03 16:38:31 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:40:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:40:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:40:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.40.18Z.bak)
+2023-12-03 16:40:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.40.18Z.bak).
+2023-12-03 16:48:32 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:50:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 16:50:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 16:50:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T09.50.18Z.bak)
+2023-12-03 16:50:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T09.50.18Z.bak).
+2023-12-03 16:58:32 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:00:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:00:22 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 17:00:22 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T10.00.18Z.bak)
+2023-12-03 17:00:22 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T10.00.18Z.bak).
+2023-12-03 17:08:32 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:10:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:10:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 17:10:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T10.10.18Z.bak)
+2023-12-03 17:10:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T10.10.18Z.bak).
+2023-12-03 17:18:32 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:20:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:20:21 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 17:20:21 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T10.20.18Z.bak)
+2023-12-03 17:20:21 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T10.20.18Z.bak).
+2023-12-03 17:28:32 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:29:18 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-03 17:29:18 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 17:29:18 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 17:29:20 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 17:29:20 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 19:59:50 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 19:59:50 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-03 19:59:52 - HandlerCollection`1: INFO: nop (112.215.240.38) from 'default' group joined. (1/8)
+2023-12-03 19:59:52 - TShock: INFO: Broadcast: nop has joined.
+2023-12-03 19:59:54 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 19:59:54 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T12.59.50Z.bak)
+2023-12-03 19:59:54 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T12.59.50Z.bak).
+2023-12-03 20:01:29 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-03 20:01:29 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-03 20:01:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 20:01:31 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 20:01:31 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 21:26:49 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:26:49 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-03 21:26:52 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-03 21:26:52 - TShock: INFO: Broadcast: flow has joined.
+2023-12-03 21:26:53 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 21:26:53 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T14.26.49Z.bak)
+2023-12-03 21:26:53 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T14.26.49Z.bak).
+2023-12-03 21:34:24 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:36:49 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:36:53 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 21:36:53 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T14.36.49Z.bak)
+2023-12-03 21:36:53 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T14.36.49Z.bak).
+2023-12-03 21:40:45 - TShock: INFO: Kicked flow for : 'You logged in from the same IP.'
+2023-12-03 21:40:45 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 21:40:45 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:40:48 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 21:40:48 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 21:40:48 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-03 21:40:48 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 21:40:51 - GetDataHandlers: INFO: flow authenticated successfully as user flow.
+2023-12-03 21:40:53 - HandlerCollection`1: INFO: flow (36.78.99.209) from 'default' group joined. (1/8)
+2023-12-03 21:40:53 - TShock: INFO: Broadcast: flow has joined.
+2023-12-03 21:44:26 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:45:36 - HandlerCollection`1: INFO: Broadcast: flow has left.
+2023-12-03 21:45:36 - HandlerCollection`1: INFO: flow disconnected.
+2023-12-03 21:45:36 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 21:45:37 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 21:45:37 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-03 23:33:20 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-03 23:33:24 - StartHelper: INFO: Broadcast: World saved.
+2023-12-03 23:33:24 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-03T16.33.20Z.bak)
+2023-12-03 23:33:24 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-03T16.33.20Z.bak).
+2023-12-04 07:33:52 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Net.WebException: Update server did not respond with an OK. Server message: [error BadGateway] Bad Gateway
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 133
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 104
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 90
+2023-12-04 07:33:52 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-12-04 08:43:09 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-04 08:43:09 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-12-04 08:43:11 - HandlerCollection`1: INFO: Yasa (182.1.103.63) from 'default' group joined. (1/8)
+2023-12-04 08:43:11 - TShock: INFO: Broadcast: Yasa has joined.
+2023-12-04 08:43:13 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 08:43:13 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T01.43.09Z.bak)
+2023-12-04 08:43:13 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T01.43.09Z.bak).
+2023-12-04 08:46:15 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-12-04 08:46:15 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-12-04 08:46:15 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-04 08:46:17 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 08:46:17 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-04 08:57:34 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-04 08:57:34 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-12-04 08:57:36 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (1/8)
+2023-12-04 08:57:36 - TShock: INFO: Broadcast: nop has joined.
+2023-12-04 08:57:38 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 08:57:38 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-12-04T01.57.34Z.bak)
+2023-12-04 08:57:38 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-12-04T01.57.34Z.bak).
+2023-12-04 08:58:52 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-12-04 08:58:52 - HandlerCollection`1: INFO: nop disconnected.
+2023-12-04 08:58:52 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-12-04 08:58:53 - Console: INFO: Shutting down safely. To force shutdown, send SIGINT (CTRL + C) again.
+2023-12-04 08:58:53 - StartHelper: INFO: Broadcast: World saved.
+2023-12-04 08:58:53 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-04 08:58:53 - HandlerCollection`1: INFO: Broadcast: Saving world...

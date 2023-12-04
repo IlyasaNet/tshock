@@ -1,0 +1,596 @@
+2023-11-24 17:30:33 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-11-24 17:30:34 - TShock: INFO: AutoSave Enabled
+2023-11-24 17:30:34 - TShock: INFO: Backups Enabled
+2023-11-24 17:30:34 - TShock: INFO: Welcome to TShock for Terraria!
+2023-11-24 17:30:34 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-11-24 17:30:34 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-11-24 17:31:13 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-11-24 17:31:13 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-11-24 17:31:13 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-11-24 17:31:13 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-11-24 17:31:13 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-11-24 17:31:13 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-11-24 17:31:13 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-11-24 17:35:00 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 17:35:01 - TShock: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-24 17:35:01 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 17:35:33 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-24 17:35:34 - TShock: INFO: Hori (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-24 17:35:34 - Utils: INFO: Broadcast: Hori has joined.
+2023-11-24 17:36:00 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 17:36:01 - TShock: INFO: Yasa (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-24 17:36:01 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-24 17:36:21 - Utils: INFO: Yasa executed (args omitted): /login.
+2023-11-24 17:38:53 - Utils: INFO: NgawiMusical executed (args omitted): /register.
+2023-11-24 17:40:33 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:40:36 - Utils: INFO: Broadcast: World saved.
+2023-11-24 17:40:36 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T10.40.33Z.bak)
+2023-11-24 17:40:36 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T10.40.33Z.bak).
+2023-11-24 17:44:59 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:50:33 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:50:36 - Utils: INFO: Broadcast: World saved.
+2023-11-24 17:50:36 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T10.50.33Z.bak)
+2023-11-24 17:50:36 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T10.50.33Z.bak).
+2023-11-24 17:54:59 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:57:49 - Utils: INFO: Broadcast: Yasa has left.
+2023-11-24 17:57:49 - TShock: INFO: Yasa disconnected.
+2023-11-24 17:58:07 - Utils: INFO: Broadcast: Hori has left.
+2023-11-24 17:58:07 - TShock: INFO: Hori disconnected.
+2023-11-24 17:59:56 - Utils: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 17:59:56 - TShock: INFO: NgawiMusical disconnected.
+2023-11-24 17:59:56 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:59:58 - Utils: INFO: Broadcast: World saved.
+2023-11-24 17:59:58 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-24 18:12:40 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 18:12:40 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 18:12:41 - TShock: INFO: Yasa (103.24.56.38) from 'default' group joined. (1/8)
+2023-11-24 18:12:41 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-24 18:12:43 - Utils: INFO: Broadcast: World saved.
+2023-11-24 18:12:43 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T11.12.40Z.bak)
+2023-11-24 18:12:43 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T11.12.40Z.bak).
+2023-11-24 18:14:49 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-24 18:14:54 - HandlerCollection`1: INFO: Hori (103.24.56.38) from 'default' group joined. (2/8)
+2023-11-24 18:14:54 - Utils: INFO: Broadcast: Hori has joined.
+2023-11-24 18:16:32 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 18:16:32 - HandlerCollection`1: INFO: NgawiMusical (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-24 18:16:32 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 18:17:43 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 18:22:40 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-24 18:22:40 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 18:22:40 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (4/8)
+2023-11-24 18:22:40 - Utils: INFO: Broadcast: nop has joined.
+2023-11-24 18:22:43 - SaveManager: INFO: Broadcast: World saved.
+2023-11-24 18:22:43 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T11.22.40Z.bak)
+2023-11-24 18:22:43 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T11.22.40Z.bak).
+2023-11-24 18:25:40 - TShock: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 18:25:40 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 18:25:40 - TShock: INFO: Broadcast: Yasa has left.
+2023-11-24 18:25:40 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 18:27:43 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 18:28:49 - HandlerCollection`1: INFO: Yasa (182.1.122.89) from 'guest' group joined. (3/8)
+2023-11-24 18:28:49 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-24 18:29:04 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-24 18:29:04 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-24 18:30:46 - GetDataHandlers: INFO: Gungna Classic authenticated successfully as user Gungna Classic.
+2023-11-24 18:30:46 - HandlerCollection`1: INFO: Gungna Classic (103.24.56.38) from 'default' group joined. (4/8)
+2023-11-24 18:30:46 - Utils: INFO: Broadcast: Gungna Classic has joined.
+2023-11-24 18:32:40 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 18:32:43 - SaveManager: INFO: Broadcast: World saved.
+2023-11-24 18:32:43 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T11.32.40Z.bak)
+2023-11-24 18:32:43 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T11.32.40Z.bak).
+2023-11-24 18:33:23 - TShock: INFO: Broadcast: nop has left.
+2023-11-24 18:33:23 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-24 18:33:38 - GetDataHandlers: INFO: nop authenticated successfully as user nop.
+2023-11-24 18:33:39 - HandlerCollection`1: INFO: nop (103.24.56.38) from 'default' group joined. (4/8)
+2023-11-24 18:33:39 - TShock: INFO: Broadcast: nop has joined.
+2023-11-24 18:34:14 - HandlerCollection`1: INFO: Broadcast: nop has left.
+2023-11-24 18:34:14 - HandlerCollection`1: INFO: nop disconnected.
+2023-11-24 18:35:53 - HandlerCollection`1: INFO: Broadcast: Gungna Classic has left.
+2023-11-24 18:35:53 - HandlerCollection`1: INFO: Gungna Classic disconnected.
+2023-11-24 18:36:01 - GetDataHandlers: INFO: Gungna Classic authenticated successfully as user Gungna Classic.
+2023-11-24 18:36:08 - HandlerCollection`1: INFO: Gungna Classic (103.24.56.38) from 'default' group joined. (3/8)
+2023-11-24 18:36:08 - TShock: INFO: Broadcast: Gungna Classic has joined.
+2023-11-24 18:36:13 - HandlerCollection`1: INFO: Broadcast: Gungna Classic has left.
+2023-11-24 18:36:13 - HandlerCollection`1: INFO: Gungna Classic disconnected.
+2023-11-24 18:37:43 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 18:38:46 - HandlerCollection`1: INFO: Broadcast: Yasa: di bawah ada hati ris
+2023-11-24 18:38:54 - HandlerCollection`1: INFO: Broadcast: Hori: Bawah endi
+2023-11-24 18:39:04 - HandlerCollection`1: INFO: Broadcast: Yasa: tempat aku mati
+2023-11-24 18:39:12 - HandlerCollection`1: INFO: Broadcast: Hori: sek onok salamnder
+2023-11-24 18:41:40 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 18:41:40 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 18:42:40 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 18:42:43 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 18:42:43 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T11.42.40Z.bak)
+2023-11-24 18:42:43 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T11.42.40Z.bak).
+2023-11-24 18:45:02 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-24 18:45:02 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-24 18:45:02 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 18:45:04 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 18:45:04 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-24 18:53:15 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 18:53:15 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 18:53:17 - HandlerCollection`1: INFO: Yasa (182.1.122.89) from 'default' group joined. (1/8)
+2023-11-24 18:53:17 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 18:53:18 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 18:53:18 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T11.53.15Z.bak)
+2023-11-24 18:53:18 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T11.53.15Z.bak).
+2023-11-24 18:55:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:03:15 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:03:17 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 19:03:17 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T12.03.15Z.bak)
+2023-11-24 19:03:17 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T12.03.15Z.bak).
+2023-11-24 19:05:55 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:07:31 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 19:07:31 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 19:07:31 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:07:33 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 19:07:33 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-24 19:34:12 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:34:13 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 19:34:14 - HandlerCollection`1: INFO: Yasa (182.1.122.89) from 'default' group joined. (1/8)
+2023-11-24 19:34:14 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 19:34:15 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 19:34:15 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T12.34.12Z.bak)
+2023-11-24 19:34:15 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T12.34.12Z.bak).
+2023-11-24 19:37:36 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 19:37:36 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 19:37:36 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 19:37:38 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 19:37:38 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-24 20:11:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:11:29 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-24 20:11:29 - HandlerCollection`1: INFO: Hori (36.78.121.157) from 'default' group joined. (1/8)
+2023-11-24 20:11:29 - TShock: INFO: Broadcast: Hori has joined.
+2023-11-24 20:11:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 20:11:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T13.11.28Z.bak)
+2023-11-24 20:11:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T13.11.28Z.bak).
+2023-11-24 20:16:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:18:36 - HandlerCollection`1: INFO: dd (103.24.56.38) from 'guest' group joined. (2/8)
+2023-11-24 20:18:36 - TShock: INFO: Broadcast: dd has joined.
+2023-11-24 20:18:45 - Commands: INFO: dd executed (args omitted): /login.
+2023-11-24 20:18:45 - Commands: INFO: dd authenticated successfully as user: Yasa.
+2023-11-24 20:19:01 - HandlerCollection`1: INFO: Broadcast: dd has left.
+2023-11-24 20:19:01 - HandlerCollection`1: INFO: dd disconnected.
+2023-11-24 20:21:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:21:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 20:21:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T13.21.28Z.bak)
+2023-11-24 20:21:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T13.21.28Z.bak).
+2023-11-24 20:26:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:31:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:31:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 20:31:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T13.31.28Z.bak)
+2023-11-24 20:31:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T13.31.28Z.bak).
+2023-11-24 20:36:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:41:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:41:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 20:41:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T13.41.28Z.bak)
+2023-11-24 20:41:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T13.41.28Z.bak).
+2023-11-24 20:46:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:51:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 20:51:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 20:51:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T13.51.28Z.bak)
+2023-11-24 20:51:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T13.51.28Z.bak).
+2023-11-24 20:56:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 21:01:28 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-24 21:01:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:01:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.01.28Z.bak)
+2023-11-24 21:01:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.01.28Z.bak).
+2023-11-24 21:03:07 - HandlerCollection`1: INFO: Yasa (123.253.232.242) from 'guest' group joined. (2/8)
+2023-11-24 21:03:07 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 21:03:18 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-24 21:03:18 - Commands: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-24 21:06:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:11:23 - HandlerCollection`1: INFO: Broadcast: Hori: Yas mana ku kok gak iso ditambah
+2023-11-24 21:11:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:11:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:11:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.11.28Z.bak)
+2023-11-24 21:11:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.11.28Z.bak).
+2023-11-24 21:11:33 - HandlerCollection`1: INFO: Broadcast: Yasa: mentok
+2023-11-24 21:11:42 - HandlerCollection`1: INFO: Broadcast: Hori: 200 ?
+2023-11-24 21:12:04 - HandlerCollection`1: INFO: Broadcast: Yasa: y
+2023-11-24 21:13:10 - HandlerCollection`1: INFO: Broadcast: Yasa: punya tali
+2023-11-24 21:13:14 - HandlerCollection`1: INFO: Broadcast: Hori: 28
+2023-11-24 21:13:38 - HandlerCollection`1: INFO: Broadcast: Yasa: uang mu berapa
+2023-11-24 21:14:00 - HandlerCollection`1: INFO: Broadcast: Hori: ndilok e nangndi ?
+2023-11-24 21:14:28 - HandlerCollection`1: INFO: Broadcast: Yasa: Piggy bank utawi  nang shop npc ketok
+2023-11-24 21:15:11 - HandlerCollection`1: INFO: Broadcast: Hori: coper coin 26 silver 31
+2023-11-24 21:15:21 - HandlerCollection`1: INFO: Broadcast: Yasa: setiap menjelajah balik quict sort. ben duite ke simpen
+2023-11-24 21:15:39 - HandlerCollection`1: INFO: Broadcast: Yasa: duitmu ilang mati terus pasti
+2023-11-24 21:15:45 - HandlerCollection`1: INFO: Broadcast: Hori: Iyo
+2023-11-24 21:15:56 - HandlerCollection`1: INFO: Broadcast: Yasa: aku ae wis 3 gold
+2023-11-24 21:16:09 - HandlerCollection`1: INFO: Broadcast: Hori: Aku mau pertama mati copper coin e ilang 71 gold 3
+2023-11-24 21:16:27 - HandlerCollection`1: INFO: Broadcast: Yasa: makane
+2023-11-24 21:16:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:17:21 - TSPlayer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 21:21:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:21:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:21:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.21.28Z.bak)
+2023-11-24 21:21:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.21.28Z.bak).
+2023-11-24 21:26:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:28:55 - TSPlayer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 21:29:28 - HandlerCollection`1: INFO: Broadcast: Hori: enek hati yas
+2023-11-24 21:29:39 - HandlerCollection`1: INFO: Broadcast: Yasa: aku 160 
+2023-11-24 21:30:22 - TSPlayer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 21:31:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:31:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:31:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.31.28Z.bak)
+2023-11-24 21:31:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.31.28Z.bak).
+2023-11-24 21:31:50 - HandlerCollection`1: INFO: Broadcast: Hori: abang iki opo
+2023-11-24 21:31:57 - HandlerCollection`1: INFO: Broadcast: Yasa: event pertama
+2023-11-24 21:32:09 - HandlerCollection`1: INFO: Broadcast: Yasa: kamu ke atas banyak monstser
+2023-11-24 21:32:18 - TSPlayer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 21:33:45 - HandlerCollection`1: INFO: Broadcast: Yasa: banyak monster
+2023-11-24 21:34:04 - HandlerCollection`1: INFO: Broadcast: Yasa: gk kuat wowkwowk
+2023-11-24 21:36:15 - HandlerCollection`1: INFO: Broadcast: Hori: damage e cilik
+2023-11-24 21:36:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:36:35 - HandlerCollection`1: INFO: Broadcast: Yasa: emang
+2023-11-24 21:36:56 - HandlerCollection`1: INFO: Broadcast: Yasa: kamu haruse bikin diamond staff agak sakit
+2023-11-24 21:38:07 - HandlerCollection`1: INFO: Broadcast: Yasa: buat event gini cocoknya summoner sama malee
+2023-11-24 21:38:27 - HandlerCollection`1: INFO: Broadcast: Yasa: n
+2023-11-24 21:39:27 - HandlerCollection`1: INFO: Broadcast: Yasa: dadi kuburan
+2023-11-24 21:39:49 - HandlerCollection`1: INFO: Broadcast: Hori: Iso diilangi iki ?
+2023-11-24 21:39:58 - HandlerCollection`1: INFO: Broadcast: Yasa: sampe pagi
+2023-11-24 21:40:17 - HandlerCollection`1: INFO: Broadcast: Yasa: aku cari loot iki
+2023-11-24 21:40:56 - HandlerCollection`1: INFO: Broadcast: Hori: npc ne mati kabeh
+2023-11-24 21:41:09 - HandlerCollection`1: INFO: Broadcast: Yasa: akwowkwow gpp bakal spawn maneh
+2023-11-24 21:41:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:41:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:41:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.41.28Z.bak)
+2023-11-24 21:41:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.41.28Z.bak).
+2023-11-24 21:46:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:51:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:51:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 21:51:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T14.51.28Z.bak)
+2023-11-24 21:51:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T14.51.28Z.bak).
+2023-11-24 21:55:51 - GetDataHandlers: INFO: Yasa summoned the Eye of Cthulhu!
+2023-11-24 21:55:55 - HandlerCollection`1: INFO: Broadcast: Hori: boss ?
+2023-11-24 21:56:15 - HandlerCollection`1: INFO: Broadcast: Yasa: kepencet cok
+2023-11-24 21:56:25 - HandlerCollection`1: INFO: Broadcast: Yasa: kepencet
+2023-11-24 21:56:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 21:56:36 - HandlerCollection`1: INFO: Broadcast: Hori: onok ruby yas ?
+2023-11-24 21:56:40 - HandlerCollection`1: INFO: Broadcast: Yasa: kepencet
+2023-11-24 21:56:42 - HandlerCollection`1: INFO: Broadcast: Hori: butuh 1 maneh
+2023-11-24 21:56:50 - HandlerCollection`1: INFO: Broadcast: Yasa: gae opo
+2023-11-24 21:56:54 - HandlerCollection`1: INFO: Broadcast: Hori: ruby staf
+2023-11-24 21:57:13 - HandlerCollection`1: INFO: Broadcast: Yasa: Cobak delok wiki damage kacek piro
+2023-11-24 21:57:23 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:57:28 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:57:29 - HandlerCollection`1: INFO: Broadcast: Hori: ruby 21
+2023-11-24 21:57:32 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:57:39 - HandlerCollection`1: INFO: Broadcast: Hori: ame 15
+2023-11-24 21:57:44 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:57:50 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:57:57 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:58:01 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:58:16 - HandlerCollection`1: INFO: bh (182.1.118.70) from 'guest' group joined. (3/8)
+2023-11-24 21:58:16 - TShock: INFO: Broadcast: bh has joined.
+2023-11-24 21:58:38 - Commands: INFO: bh executed (args omitted): /login.
+2023-11-24 21:58:38 - Commands: INFO: bh authenticated successfully as user: Yasa.
+2023-11-24 21:58:47 - HandlerCollection`1: INFO: Broadcast: bh: double ganger
+2023-11-24 21:59:01 - HandlerCollection`1: INFO: Broadcast: bh: ruby gk sakt juga sih
+2023-11-24 21:59:18 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 21:59:18 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 21:59:18 - HandlerCollection`1: INFO: Broadcast: Hori: bh iki sopo
+2023-11-24 21:59:21 - HandlerCollection`1: INFO: Broadcast: bh: gk ada yg sakit. staff iki soale single target cocoke buat boss
+2023-11-24 21:59:37 - HandlerCollection`1: INFO: Broadcast: bh: aku
+2023-11-24 21:59:40 - HandlerCollection`1: INFO: Broadcast: bh has left.
+2023-11-24 21:59:40 - HandlerCollection`1: INFO: bh disconnected.
+2023-11-24 21:59:45 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 21:59:47 - HandlerCollection`1: INFO: Yasa (182.1.118.70) from 'default' group joined. (2/8)
+2023-11-24 21:59:47 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 22:00:33 - HandlerCollection`1: INFO: Broadcast: Hori: seng saki speel
+2023-11-24 22:00:36 - HandlerCollection`1: INFO: Broadcast: Yasa: simpen sesuai kategorinlah ris
+2023-11-24 22:00:47 - HandlerCollection`1: INFO: Broadcast: Yasa: yo kayae
+2023-11-24 22:01:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:01:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:01:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.01.28Z.bak)
+2023-11-24 22:01:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.01.28Z.bak).
+2023-11-24 22:06:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:10:52 - HandlerCollection`1: INFO: Broadcast: Yasa: nang kono ono senjata mage apik
+2023-11-24 22:11:00 - HandlerCollection`1: INFO: Broadcast: Hori: musuhe sulit
+2023-11-24 22:11:01 - HandlerCollection`1: INFO: Broadcast: Yasa: mecah no bola bola
+2023-11-24 22:11:19 - HandlerCollection`1: INFO: Broadcast: Yasa: tapi misale mecahno bola ke 3 bakal muncul boss
+2023-11-24 22:11:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:11:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:11:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.11.28Z.bak)
+2023-11-24 22:11:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.11.28Z.bak).
+2023-11-24 22:11:38 - HandlerCollection`1: INFO: Broadcast: Yasa: udsh bawa bom
+2023-11-24 22:13:47 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo mecahno bola . 
+2023-11-24 22:13:58 - HandlerCollection`1: INFO: Broadcast: Yasa: aku butuh bedil
+2023-11-24 22:14:07 - HandlerCollection`1: INFO: Broadcast: Yasa: gae munculno npc gunner
+2023-11-24 22:14:52 - HandlerCollection`1: INFO: Broadcast: Yasa: buntu iki
+2023-11-24 22:15:19 - HandlerCollection`1: INFO: Broadcast: Hori: bola
+2023-11-24 22:15:40 - HandlerCollection`1: INFO: Broadcast: Yasa: dapet opo
+2023-11-24 22:15:59 - HandlerCollection`1: INFO: Broadcast: Hori: musket
+2023-11-24 22:16:06 - HandlerCollection`1: INFO: Broadcast: Yasa: ah iku kasih no aku
+2023-11-24 22:16:15 - HandlerCollection`1: INFO: Broadcast: Yasa: sek pecah no maneh
+2023-11-24 22:16:21 - HandlerCollection`1: INFO: Broadcast: Hori: aku recall ?
+2023-11-24 22:16:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:16:32 - HandlerCollection`1: INFO: Broadcast: Yasa: tak tuku bomb
+2023-11-24 22:17:02 - HandlerCollection`1: INFO: Broadcast: Yasa: kenapa broken terus jir
+2023-11-24 22:17:11 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo
+2023-11-24 22:17:20 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 22:17:21 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 22:17:21 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 22:17:30 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: hai
+2023-11-24 22:17:40 - Commands: INFO: NgawiMusical executed (args omitted): /register.
+2023-11-24 22:17:40 - Commands: INFO: NgawiMusical attempted to register for the account NgawiMusical but it was already taken.
+2023-11-24 22:17:58 - Commands: INFO: NgawiMusical executed (args omitted): /login.
+2023-11-24 22:18:21 - HandlerCollection`1: INFO: Broadcast: Yasa: kontol
+2023-11-24 22:18:26 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: loh boss a?
+2023-11-24 22:18:34 - HandlerCollection`1: INFO: Broadcast: Yasa: nyari senjata mage
+2023-11-24 22:20:24 - HandlerCollection`1: INFO: Broadcast: Hori: scream eco sopo ?
+2023-11-24 22:20:27 - HandlerCollection`1: INFO: Broadcast: Yasa: itu ris
+2023-11-24 22:20:41 - HandlerCollection`1: INFO: Broadcast: Yasa: cocok gae event
+2023-11-24 22:20:57 - HandlerCollection`1: INFO: Broadcast: Hori: woke
+2023-11-24 22:21:24 - HandlerCollection`1: INFO: Broadcast: Yasa: join tesm
+2023-11-24 22:21:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:21:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:21:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.21.28Z.bak)
+2023-11-24 22:21:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.21.28Z.bak).
+2023-11-24 22:22:26 - HandlerCollection`1: INFO: Broadcast: Hori: ruask
+2023-11-24 22:22:49 - HandlerCollection`1: INFO: Broadcast: Hori: robe ku ilang
+2023-11-24 22:22:58 - HandlerCollection`1: INFO: Broadcast: Yasa: perlu rumah
+2023-11-24 22:23:02 - HandlerCollection`1: INFO: Broadcast: Yasa: npc full
+2023-11-24 22:23:09 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 22:23:09 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 22:23:13 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 22:23:14 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 22:23:14 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 22:23:56 - TSPlayer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 22:25:02 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku gae omah
+2023-11-24 22:25:18 - HandlerCollection`1: INFO: Broadcast: Yasa: gae omah nang biome lain tur
+2023-11-24 22:25:33 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku golek woo
+2023-11-24 22:25:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: karo gae dalan
+2023-11-24 22:25:53 - HandlerCollection`1: INFO: Broadcast: Yasa: pake batu lo aku ada 1000
+2023-11-24 22:25:59 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: info batu aesthetic mu
+2023-11-24 22:26:01 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: ndi
+2023-11-24 22:26:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:26:37 - HandlerCollection`1: INFO: Broadcast: Yasa: kene harus bikin rumah nsng juggler sih
+2023-11-24 22:31:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:31:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:31:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.31.29Z.bak)
+2023-11-24 22:31:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.31.29Z.bak).
+2023-11-24 22:34:10 - Bouncer: INFO: Player Yasa has been disabled for Reached TileKill threshold..
+2023-11-24 22:34:59 - HandlerCollection`1: INFO: Broadcast: Hori: bolane tak hancurno bakal metu boss ?
+2023-11-24 22:35:10 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gak langsung
+2023-11-24 22:35:13 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: han\
+2023-11-24 22:35:14 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 22:35:14 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 22:35:25 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 22:35:26 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 22:35:26 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 22:35:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: hancuran ke 4 gasalah
+2023-11-24 22:35:41 - HandlerCollection`1: INFO: Broadcast: Yasa: 3 bola baru metu
+2023-11-24 22:35:56 - HandlerCollection`1: INFO: Broadcast: Yasa: iki misale 1 kali lagi metu boss
+2023-11-24 22:36:16 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: jungle e sblah ndi??
+2023-11-24 22:36:23 - HandlerCollection`1: INFO: Broadcast: Hori: kanan
+2023-11-24 22:36:27 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:36:52 - HandlerCollection`1: INFO: Broadcast: Yasa: bawa bed sih
+2023-11-24 22:37:27 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo
+2023-11-24 22:37:31 - HandlerCollection`1: INFO: Broadcast: Yasa: tak jogo
+2023-11-24 22:37:41 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo ris
+2023-11-24 22:38:49 - HandlerCollection`1: INFO: Broadcast: Yasa: aksowk
+2023-11-24 22:38:53 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: njwoe vbjwjov;j q3n1o3nf [
+2023-11-24 22:39:01 - HandlerCollection`1: INFO: Broadcast: Hori: Aku njogo
+2023-11-24 22:39:22 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: senjata melee apik opo 
+2023-11-24 22:39:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sitok gowo bedil ae
+2023-11-24 22:39:34 - HandlerCollection`1: INFO: Broadcast: Yasa: wiki
+2023-11-24 22:41:20 - HandlerCollection`1: INFO: Broadcast: Yasa: ancur
+2023-11-24 22:41:28 - HandlerCollection`1: INFO: Broadcast: Yasa: celeh
+2023-11-24 22:41:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:41:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:41:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.41.29Z.bak)
+2023-11-24 22:41:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.41.29Z.bak).
+2023-11-24 22:42:04 - HandlerCollection`1: INFO: Broadcast: Yasa: salh cok
+2023-11-24 22:42:09 - HandlerCollection`1: INFO: Broadcast: Yasa: juggler kiri
+2023-11-24 22:42:19 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: loalaaa
+2023-11-24 22:42:21 - HandlerCollection`1: INFO: Broadcast: Yasa: soale snow ne kanan
+2023-11-24 22:42:29 - HandlerCollection`1: INFO: Broadcast: Yasa: info palsu iki faris
+2023-11-24 22:42:32 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wes kadung
+2023-11-24 22:42:35 - HandlerCollection`1: INFO: Broadcast: Yasa: sini sini
+2023-11-24 22:43:05 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 22:43:05 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 22:43:22 - HandlerCollection`1: INFO: Broadcast: Hori: kiri gurun
+2023-11-24 22:44:01 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 22:44:02 - HandlerCollection`1: INFO: Yasa (182.1.118.70) from 'default' group joined. (3/8)
+2023-11-24 22:44:02 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 22:44:24 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: njeng ai cacing e pinter
+2023-11-24 22:44:39 - HandlerCollection`1: INFO: Broadcast: Yasa: sik gsnti leptop
+2023-11-24 22:44:41 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 22:44:41 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 22:44:42 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: buntut e melu 
+2023-11-24 22:44:52 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: pas mencolot
+2023-11-24 22:45:14 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: farming gold sek
+2023-11-24 22:46:14 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 22:46:16 - HandlerCollection`1: INFO: Yasa (182.1.118.70) from 'default' group joined. (3/8)
+2023-11-24 22:46:16 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 22:46:24 - HandlerCollection`1: INFO: Broadcast: Hori: kaktus e melu mencolot
+2023-11-24 22:46:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:47:02 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 22:47:02 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 22:47:19 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 22:47:19 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 22:47:24 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 22:47:25 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (2/8)
+2023-11-24 22:47:25 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 22:47:38 - HandlerCollection`1: INFO: Yasa (202.80.217.209) from 'guest' group joined. (3/8)
+2023-11-24 22:47:38 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 22:48:12 - Commands: INFO: Yasa executed (args omitted): /login.
+2023-11-24 22:48:12 - Command: INFO: Yasa authenticated successfully as user: Yasa.
+2023-11-24 22:48:24 - HandlerCollection`1: INFO: Broadcast: Yasa: gimana?
+2023-11-24 22:48:49 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 22:48:49 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 22:48:57 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 22:48:59 - HandlerCollection`1: INFO: Yasa (202.80.217.209) from 'default' group joined. (3/8)
+2023-11-24 22:48:59 - TShock: INFO: Broadcast: Yasa has joined.
+2023-11-24 22:50:46 - HandlerCollection`1: INFO: Broadcast: Hori: bomb
+2023-11-24 22:50:51 - HandlerCollection`1: INFO: Broadcast: Yasa: beli en
+2023-11-24 22:51:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:51:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 22:51:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T15.51.29Z.bak)
+2023-11-24 22:51:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T15.51.29Z.bak).
+2023-11-24 22:51:35 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sek sek
+2023-11-24 22:51:37 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 22:51:37 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 22:52:26 - HandlerCollection`1: INFO: Broadcast: Hori: ora enek seng dodol
+2023-11-24 22:52:43 - HandlerCollection`1: INFO: Broadcast: Yasa: di delok raine yo bakal ngerti sik dodol ris
+2023-11-24 22:54:01 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 22:54:02 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 22:54:02 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 22:54:09 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo nang juggler
+2023-11-24 22:54:12 - HandlerCollection`1: INFO: Broadcast: Yasa: bikin rumah
+2023-11-24 22:56:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 22:56:28 - Bouncer: INFO: Player Hori has been disabled for Reached TileKill threshold..
+2023-11-24 22:56:47 - Bouncer: INFO: Player Hori has been disabled for Reached TileKill threshold..
+2023-11-24 22:56:57 - TShock: INFO: Player Hori has been disabled for Reached TileKill threshold..
+2023-11-24 22:57:09 - Bouncer: INFO: Player Hori has been disabled for Reached TileKill threshold..
+2023-11-24 22:57:18 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 22:57:18 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 23:00:44 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:00:44 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 23:00:44 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:01:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:01:31 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 23:01:31 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T16.01.29Z.bak)
+2023-11-24 23:01:31 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T16.01.29Z.bak).
+2023-11-24 23:04:48 - Commands: INFO: NgawiMusical executed (args omitted): /register.
+2023-11-24 23:05:16 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: jungle kiri kan?
+2023-11-24 23:05:21 - HandlerCollection`1: INFO: Broadcast: Yasa: yo
+2023-11-24 23:05:27 - HandlerCollection`1: INFO: Broadcast: Yasa: otw?
+2023-11-24 23:05:38 - HandlerCollection`1: INFO: Broadcast: Hori: aku melok
+2023-11-24 23:05:39 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sek yas
+2023-11-24 23:05:45 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: gas
+2023-11-24 23:06:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:07:18 - HandlerCollection`1: INFO: Broadcast: Yasa: hahahaa
+2023-11-24 23:07:37 - HandlerCollection`1: INFO: Broadcast: Yasa: cok
+2023-11-24 23:07:56 - HandlerCollection`1: INFO: Broadcast: Yasa: tur
+2023-11-24 23:07:58 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo
+2023-11-24 23:08:28 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: wkwkwkwk
+2023-11-24 23:08:42 - HandlerCollection`1: INFO: Broadcast: Hori: ora iso reangn
+2023-11-24 23:09:05 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: prepare sek aku
+2023-11-24 23:10:00 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:10:00 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 23:10:04 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:10:04 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 23:10:04 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:10:10 - HandlerCollection`1: INFO: Broadcast: Yasa: ahhh 
+2023-11-24 23:10:16 - HandlerCollection`1: INFO: Broadcast: Yasa: disitu ae
+2023-11-24 23:10:24 - HandlerCollection`1: INFO: Broadcast: Yasa: tempat ku mati
+2023-11-24 23:11:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:11:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 23:11:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T16.11.29Z.bak)
+2023-11-24 23:11:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T16.11.29Z.bak).
+2023-11-24 23:12:05 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: sopo seng masang benowo i
+2023-11-24 23:12:15 - HandlerCollection`1: INFO: Broadcast: Yasa: faris
+2023-11-24 23:12:23 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: ruh wong e langsung ngomel iki wkwkwk
+2023-11-24 23:12:36 - HandlerCollection`1: INFO: Broadcast: Hori: ora
+2023-11-24 23:12:49 - HandlerCollection`1: INFO: Broadcast: Yasa: ono pacet juga og
+2023-11-24 23:12:54 - HandlerCollection`1: INFO: Broadcast: Yasa: tersembunyi
+2023-11-24 23:13:17 - HandlerCollection`1: INFO: Broadcast: Yasa: ayo ta?
+2023-11-24 23:13:23 - HandlerCollection`1: INFO: Broadcast: Yasa: opo negnteni isuk
+2023-11-24 23:14:02 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: pelurune murah
+2023-11-24 23:14:24 - HandlerCollection`1: INFO: Broadcast: Yasa: sakti bgt
+2023-11-24 23:15:50 - HandlerCollection`1: INFO: Broadcast: Yasa: heak
+2023-11-24 23:16:01 - HandlerCollection`1: INFO: Broadcast: Yasa: heal
+2023-11-24 23:16:25 - HandlerCollection`1: INFO: Broadcast: Yasa: woowoka
+2023-11-24 23:16:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:16:39 - HandlerCollection`1: INFO: Broadcast: Yasa: astaga
+2023-11-24 23:16:40 - HandlerCollection`1: INFO: Broadcast: Hori: wowowo
+2023-11-24 23:16:49 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:16:49 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 23:16:54 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:16:55 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 23:16:55 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:16:56 - HandlerCollection`1: INFO: Broadcast: Hori: aku enko tele
+2023-11-24 23:16:59 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: asu disconnect
+2023-11-24 23:17:52 - HandlerCollection`1: INFO: Broadcast: Hori: kok gak iso ngae potion wormhole
+2023-11-24 23:17:57 - HandlerCollection`1: INFO: Broadcast: Yasa: team merah
+2023-11-24 23:18:05 - HandlerCollection`1: INFO: Broadcast: Yasa: kudu sak party
+2023-11-24 23:18:06 - HandlerCollection`1: INFO: Broadcast: Hori: join e piye
+2023-11-24 23:18:51 - HandlerCollection`1: INFO: Broadcast: Yasa: sampinge tempat armor ono team teaman bawahe pvp mode
+2023-11-24 23:19:00 - HandlerCollection`1: INFO: Broadcast: Yasa: joinno merah
+2023-11-24 23:19:12 - HandlerCollection`1: INFO: Broadcast: Hori: gak sido
+2023-11-24 23:19:16 - HandlerCollection`1: INFO: Broadcast: Hori: aku iso renang
+2023-11-24 23:19:27 - HandlerCollection`1: INFO: Broadcast: Yasa: aaaaa
+2023-11-24 23:19:51 - HandlerCollection`1: INFO: Broadcast: Hori: heral
+2023-11-24 23:19:53 - HandlerCollection`1: INFO: Broadcast: Hori: heal
+2023-11-24 23:20:06 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:20:06 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 23:21:04 - HandlerCollection`1: INFO: Broadcast: Yasa: barange nek artur cok
+2023-11-24 23:21:26 - HandlerCollection`1: INFO: Broadcast: Hori: arthur e ilang
+2023-11-24 23:21:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:21:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 23:21:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T16.21.29Z.bak)
+2023-11-24 23:21:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T16.21.29Z.bak).
+2023-11-24 23:22:51 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:22:52 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 23:22:52 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:23:21 - HandlerCollection`1: INFO: Broadcast: Hori: kiri thur
+2023-11-24 23:24:39 - HandlerCollection`1: INFO: Broadcast: Yasa: kamu punya gold banyak gk ris
+2023-11-24 23:24:44 - HandlerCollection`1: INFO: Broadcast: Yasa: 8 lah
+2023-11-24 23:24:48 - HandlerCollection`1: INFO: Broadcast: Hori: tak deleh peti
+2023-11-24 23:24:56 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: aku onok 40 ore
+2023-11-24 23:25:02 - HandlerCollection`1: INFO: Broadcast: Yasa: gold duit
+2023-11-24 23:25:07 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:25:07 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-24 23:25:34 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:25:34 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (3/8)
+2023-11-24 23:25:34 - TShock: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:26:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:26:36 - HandlerCollection`1: INFO: Broadcast: Yasa: cok
+2023-11-24 23:29:12 - HandlerCollection`1: INFO: Broadcast: Yasa: pantek lah
+2023-11-24 23:29:33 - HandlerCollection`1: INFO: Broadcast: Yasa: i do not heve permission to relocate town NPC
+2023-11-24 23:29:45 - HandlerCollection`1: INFO: Broadcast: Hori: permission e sopo no ?
+2023-11-24 23:30:18 - HandlerCollection`1: INFO: Broadcast: Yasa: gk iso 
+2023-11-24 23:30:34 - HandlerCollection`1: INFO: Broadcast: Yasa: sedih aku
+2023-11-24 23:30:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: loh 
+2023-11-24 23:31:11 - HandlerCollection`1: INFO: Broadcast: Yasa: tur?
+2023-11-24 23:31:21 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: otw jungle
+2023-11-24 23:31:29 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:31:30 - <CheckForUpdatesAsync>d__4: WARNING: UpdateManager warning: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 5 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at TShockAPI.UpdateManager.ServerIsOutOfDateAsync() in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 112
+   at TShockAPI.UpdateManager.UpdateCheckAsync(Object o) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 99
+   at TShockAPI.UpdateManager.CheckForUpdatesAsync(Object state) in /home/runner/work/TShock/TShock/TShockAPI/UpdateManager.cs:line 74
+2023-11-24 23:31:30 - <CheckForUpdatesAsync>d__4: ERROR: Retrying in 5 minutes.
+2023-11-24 23:31:32 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 23:31:32 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T16.31.29Z.bak)
+2023-11-24 23:31:32 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T16.31.29Z.bak).
+2023-11-24 23:32:45 - HandlerCollection`1: INFO: Broadcast: Yasa: loh
+2023-11-24 23:32:52 - HandlerCollection`1: INFO: Broadcast: Yasa: gold e sopo tur
+2023-11-24 23:32:56 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: mining oleh jackpot
+2023-11-24 23:33:07 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: oleh armor tok tapi
+2023-11-24 23:33:10 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: body
+2023-11-24 23:33:46 - HandlerCollection`1: INFO: Broadcast: Yasa: sek iki aku gk iso ngemove npc
+2023-11-24 23:34:29 - Commands: INFO: Server executed (args omitted): /user.
+2023-11-24 23:34:38 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: loh iku permision teko town e kah ?
+2023-11-24 23:35:05 - Commands: INFO: Server executed (args omitted): /user.
+2023-11-24 23:35:42 - Commands: INFO: Yasa tried to execute /su.
+2023-11-24 23:36:20 - HandlerCollection`1: INFO: Broadcast: Yasa: cook
+2023-11-24 23:36:28 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:37:19 - HandlerCollection`1: INFO: Broadcast: Yasa: tak restart
+2023-11-24 23:37:26 - HandlerCollection`1: INFO: Broadcast: Yasa: set spawn ponint sek
+2023-11-24 23:37:31 - HandlerCollection`1: INFO: Broadcast: Yasa: sini
+2023-11-24 23:37:46 - HandlerCollection`1: INFO: Broadcast: Yasa: wis kan
+2023-11-24 23:37:52 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-24 23:37:52 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-24 23:38:04 - Console: INFO: Shutting down safely. To force shutdown, send SIGINT (CTRL + C) again.
+2023-11-24 23:38:04 - HandlerCollection`1: INFO: Broadcast: Saving world...
+2023-11-24 23:38:08 - StartHelper: INFO: Broadcast: World saved.
+2023-11-24 23:38:08 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-24 23:38:08 - HandlerCollection`1: INFO: Broadcast: Hori has left.
+2023-11-24 23:38:08 - HandlerCollection`1: INFO: Hori disconnected.
+2023-11-24 23:38:08 - TShock: INFO: Broadcast: Server console interrupted!
+2023-11-24 23:38:08 - HandlerCollection`1: INFO: Broadcast: Saving world...

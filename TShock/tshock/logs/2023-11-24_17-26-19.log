@@ -1,0 +1,20 @@
+2023-11-24 17:26:19 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2023-11-24 17:26:19 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-11-24 17:26:19 - TShock: INFO: AutoSave Enabled
+2023-11-24 17:26:19 - TShock: INFO: Backups Enabled
+2023-11-24 17:26:19 - TShock: INFO: Welcome to TShock for Terraria!
+2023-11-24 17:26:19 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-11-24 17:26:19 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-11-24 17:27:05 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-11-24 17:27:05 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-11-24 17:27:05 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-11-24 17:27:05 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-11-24 17:27:05 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-11-24 17:27:05 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-11-24 17:27:05 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-11-24 17:29:03 - Utils: INFO: Server executed: /stop.
+2023-11-24 17:29:03 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 17:29:07 - Utils: INFO: Broadcast: World saved.
+2023-11-24 17:29:07 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI.wld)
+2023-11-24 17:29:07 - Utils: INFO: Broadcast: Server shutting down!
+2023-11-24 17:29:07 - Utils: INFO: Broadcast: Saving world...

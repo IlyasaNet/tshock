@@ -1,0 +1,89 @@
+2023-11-24 23:40:48 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-11-24 23:40:48 - TShock: INFO: AutoSave Enabled
+2023-11-24 23:40:48 - TShock: INFO: Backups Enabled
+2023-11-24 23:40:48 - TShock: INFO: Welcome to TShock for Terraria!
+2023-11-24 23:40:48 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-11-24 23:40:48 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-11-24 23:41:25 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-11-24 23:41:25 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-11-24 23:41:25 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-11-24 23:41:25 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-11-24 23:41:25 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-11-24 23:41:25 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-11-24 23:41:25 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-11-24 23:41:28 - GetDataHandlers: INFO: Hori authenticated successfully as user Hori.
+2023-11-24 23:41:28 - TShock: INFO: Hori (36.78.121.157) from 'default' group joined. (1/8)
+2023-11-24 23:41:28 - Utils: INFO: Broadcast: Hori has joined.
+2023-11-24 23:41:44 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:41:44 - TShock: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (2/8)
+2023-11-24 23:41:44 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:41:46 - Utils: INFO: Broadcast: Hori has left.
+2023-11-24 23:41:46 - TShock: INFO: Hori disconnected.
+2023-11-24 23:42:01 - Utils: INFO: Server executed: /help.
+2023-11-24 23:42:13 - Utils: INFO: Server executed (args omitted): /user.
+2023-11-24 23:44:07 - Utils: INFO: Server executed: /group addperm default tshock.world.movenpc.
+2023-11-24 23:44:16 - GetDataHandlers: INFO: Yasa authenticated successfully as user Yasa.
+2023-11-24 23:44:16 - TShock: INFO: Yasa (202.80.217.209) from 'default' group joined. (2/8)
+2023-11-24 23:44:16 - Utils: INFO: Broadcast: Yasa has joined.
+2023-11-24 23:47:15 - Utils: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:47:15 - TShock: INFO: NgawiMusical disconnected.
+2023-11-24 23:47:21 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:47:22 - TShock: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (2/8)
+2023-11-24 23:47:22 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-24 23:50:48 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 23:50:50 - Utils: INFO: Broadcast: World saved.
+2023-11-24 23:50:50 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T16.50.48Z.bak)
+2023-11-24 23:50:50 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T16.50.48Z.bak).
+2023-11-24 23:51:27 - Utils: INFO: Broadcast: Saving world...
+2023-11-24 23:53:17 - Utils: INFO: Broadcast: NgawiMusical has left.
+2023-11-24 23:53:17 - TShock: INFO: NgawiMusical disconnected.
+2023-11-24 23:58:48 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-24 23:58:49 - TShock: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (2/8)
+2023-11-24 23:58:49 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 00:00:48 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 00:00:50 - Utils: INFO: Broadcast: World saved.
+2023-11-25 00:00:50 - SaveManager: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T17.00.48Z.bak)
+2023-11-25 00:00:50 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T17.00.48Z.bak).
+2023-11-25 00:01:27 - Utils: INFO: Broadcast: Saving world...
+2023-11-25 00:02:21 - Utils: INFO: Broadcast: Yasa: ada gold arrmour
+2023-11-25 00:02:23 - Utils: INFO: Broadcast: Yasa: ?
+2023-11-25 00:02:39 - Utils: INFO: Broadcast: NgawiMusical: jackpot ndek mushroom biome
+2023-11-25 00:02:46 - TShock: INFO: Broadcast: Yasa: dapet opo?
+2023-11-25 00:02:48 - TShock: INFO: Broadcast: NgawiMusical: liwat rel kereta
+2023-11-25 00:02:53 - TShock: INFO: Broadcast: NgawiMusical: gold ore okeh
+2023-11-25 00:03:00 - TShock: INFO: Broadcast: NgawiMusical: sek onok gold e yas
+2023-11-25 00:03:57 - TShock: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 00:03:57 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 00:04:10 - GetDataHandlers: INFO: NgawiMusical authenticated successfully as user NgawiMusical.
+2023-11-25 00:04:11 - HandlerCollection`1: INFO: NgawiMusical (114.79.18.156) from 'default' group joined. (2/8)
+2023-11-25 00:04:11 - Utils: INFO: Broadcast: NgawiMusical has joined.
+2023-11-25 00:08:33 - TShock: INFO: Broadcast: Yasa: butuh 2 gold coin
+2023-11-25 00:08:36 - TShock: INFO: Broadcast: Yasa: ad tur?
+2023-11-25 00:08:49 - TShock: INFO: Broadcast: NgawiMusical: onok
+2023-11-25 00:08:57 - TShock: INFO: Broadcast: NgawiMusical: eh 1 onok e
+2023-11-25 00:08:58 - TShock: INFO: Broadcast: Yasa: mintak
+2023-11-25 00:09:09 - TShock: INFO: Broadcast: Yasa: siji tok
+2023-11-25 00:09:10 - TShock: INFO: Broadcast: Yasa: butuh 2
+2023-11-25 00:09:13 - TShock: INFO: Broadcast: NgawiMusical: iyo
+2023-11-25 00:09:18 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: ngedol o barang wkwkw
+2023-11-25 00:09:21 - HandlerCollection`1: INFO: Broadcast: Yasa: ok
+2023-11-25 00:10:48 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 00:10:51 - HandlerCollection`1: INFO: Broadcast: Yasa: tidur sek
+2023-11-25 00:10:51 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 00:10:51 - StartHelper: INFO: World saved at (tshock/backups/TRI_M.wld.2023-11-24T17.10.48Z.bak)
+2023-11-25 00:10:51 - BackupManager: INFO: World backed up (tshock/backups/TRI_M.wld.2023-11-24T17.10.48Z.bak).
+2023-11-25 00:10:54 - HandlerCollection`1: INFO: Broadcast: Yasa has left.
+2023-11-25 00:10:54 - HandlerCollection`1: INFO: Yasa disconnected.
+2023-11-25 00:10:59 - HandlerCollection`1: INFO: Broadcast: NgawiMusical: woke
+2023-11-25 00:11:27 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 00:16:24 - HandlerCollection`1: INFO: Broadcast: NgawiMusical has left.
+2023-11-25 00:16:24 - HandlerCollection`1: INFO: NgawiMusical disconnected.
+2023-11-25 00:16:24 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 00:16:26 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 00:16:26 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 00:22:06 - Commands: INFO: Server executed: /stop.
+2023-11-25 00:22:06 - SaveManager: INFO: Broadcast: Saving world...
+2023-11-25 00:22:08 - StartHelper: INFO: Broadcast: World saved.
+2023-11-25 00:22:08 - StartHelper: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-11-25 00:22:08 - Command: INFO: Broadcast: Server shutting down!
+2023-11-25 00:22:08 - SaveManager: INFO: Broadcast: Saving world...

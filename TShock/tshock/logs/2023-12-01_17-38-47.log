@@ -1,0 +1,21 @@
+2023-12-01 17:38:47 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-12-01 17:38:47 - TShock: INFO: AutoSave Enabled
+2023-12-01 17:38:47 - TShock: INFO: Backups Enabled
+2023-12-01 17:38:47 - TShock: INFO: Welcome to TShock for Terraria!
+2023-12-01 17:38:47 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-12-01 17:38:47 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-12-01 17:39:25 - TShock: ERROR: !!! UUID login is enabled. If a user's UUID matches an account, the server password will be bypassed.
+2023-12-01 17:39:25 - TShock: ERROR: !!! > Set DisableUUIDLogin to true in the config file and /reload if this is a problem.
+2023-12-01 17:39:25 - TShock: ERROR: !!! Login before join is enabled. Existing accounts can login & the server password will be bypassed.
+2023-12-01 17:39:25 - TShock: ERROR: !!! > Set DisableLoginBeforeJoin to true in the config file and /reload if this is a problem.
+2023-12-01 17:39:25 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-12-01 17:39:25 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-12-01 17:39:25 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-12-01 17:39:33 - Utils: INFO: Server executed: /group addperm default tshock.npc.startdd2.
+2023-12-01 17:39:42 - Utils: INFO: Server executed: /group addperm default tshock.ignore.removetile.
+2023-12-01 17:45:28 - TShock: INFO: Shutting down safely. To force shutdown, send SIGINT (CTRL + C) again.
+2023-12-01 17:45:28 - Utils: INFO: Broadcast: Saving world...
+2023-12-01 17:45:31 - Utils: INFO: Broadcast: World saved.
+2023-12-01 17:45:31 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/TRI_M.wld)
+2023-12-01 17:45:31 - Utils: INFO: Broadcast: Server console interrupted!
+2023-12-01 17:45:31 - Utils: INFO: Broadcast: Saving world...
